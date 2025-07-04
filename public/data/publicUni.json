@@ -1,6 +1,6 @@
 [
   {
-    "id": "uniVs23",
+    "id": "uniVs1",
     "name": "Howard University",
     "type": "public",
     "rank": "601-610",
@@ -10,7 +10,7 @@
     "scholarship_info": "HUFS: freshman merit & need‑based scholarships. Karsh STEM Scholars program offers tuition+room/board/books for STEM majors. :contentReference[oaicite:3]{index=3}"
   },
   {
-    "id": "uniVs49",
+    "id": "uniVs2",
     "name": "Stony Brook University",
     "type": "public",
     "rank": "701-750",
@@ -20,13 +20,503 @@
     "scholarship_info": "Merit scholarships available; mostly a public university."
   },
   {
-    "id": "uniVs58",
-    "name": "DuPont Manual High School",
+    "id": "uniVs3",
+    "name": "University of California, Santa Cruz",
     "type": "public",
-    "rank": "N/A",
-    "website": "https://manual.mpsd.k12.ky.us/",
-    "location": "Louisville, Kentucky, USA",
-    "annual_tuition_cs_dept": "N/A",
-    "scholarship_info": "Public school."
+    "rank": "501 - 600",
+    "website": "https://ucsc.edu",
+    "location": "Santa Cruz CA",
+    "annual_tuition_cs_dept": "$50,183/year",
+    "scholarship_info": "Regents Scholarship ($5,000/year, renewable for 4 years for freshmen, based on academic merit); Ruth Emma Johnson Scholarship (scholastic ability and need); Katherine M. and Raymond R. Sage Scholarship (need-based); William H. Snyder Scholarship (merit-based); Adolph C. Miller Scholarship (need-based). Check https://financialaid.ucsc.edu for more."
+  },
+  {
+    "id": "uniVs4",
+    "name": "SUNY Polytechnic Institute",
+    "type": "public",
+    "rank": "502 - 600",
+    "website": "https://sunypoly.edu",
+    "location": "Marcy NY",
+    "annual_tuition_cs_dept": "$20,228/year",
+    "scholarship_info": "SUNY Poly offers merit-based and need-based scholarships for CS and CE students. Check the financial aid office at https://sunypoly.edu for specific CS/IT scholarships."
+  },
+  {
+    "id": "uniVs5",
+    "name": "University of Houston",
+    "type": "public",
+    "rank": "651 - 660",
+    "website": "https://uh.edu",
+    "location": "Houston TX",
+    "annual_tuition_cs_dept": "~$25,000\u201330,000/year",
+    "scholarship_info": "Great Minds in STEM HENAAC Scholarship (for STEM students, $2,500\u2013$5,000, 3.0+ GPA); Microsoft Scholarship (CS/STEM, merit-based, leadership focus). Check https://uh.edu for additional scholarships."
+  },
+  {
+    "id": "uniVs6",
+    "name": "University of North Texas",
+    "type": "public",
+    "rank": "1001 - 1200",
+    "website": "https://unt.edu",
+    "location": "Denton TX",
+    "annual_tuition_cs_dept": "~$21,000/year",
+    "scholarship_info": "College of Engineering Dean\u2019s Scholarship (merit-based, $1,000+); Benjamin T. Hamilton Memorial Scholarship (for CS majors, preference for students with disabilities); Gene Fuhrman Memorial Scholarship (CS/IT, preference for Muenster/Cooke County, TX graduates); Siemens PLM Software Scholarship ($5,000 for dual-degree students). Apply via https://engineering.unt.edu."
+  },
+  {
+    "id": "uniVs7",
+    "name": "San Diego State University",
+    "type": "public",
+    "rank": "1002 - 1200",
+    "website": "https://sdsu.edu",
+    "location": "San Diego CA",
+    "annual_tuition_cs_dept": "~$28,000/year",
+    "scholarship_info": "UCSD scholarships (applicable to SDSU via system-wide programs) include merit-based awards ($2,000\u2013$5,000) and need-based awards for CS/CE students. Check https://sdsu.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs8",
+    "name": "Indiana University\u2013Purdue Indianapolis",
+    "type": "public",
+    "rank": "1003 - 1200",
+    "website": "https://iupui.edu",
+    "location": "Indianapolis IN",
+    "annual_tuition_cs_dept": "~$29,000/year",
+    "scholarship_info": "IUPUI offers School of Engineering and Technology scholarships for CS and CE students, including merit and need-based awards. Check https://iupui.edu for details."
+  },
+  {
+    "id": "uniVs9",
+    "name": "Portland State University",
+    "type": "public",
+    "rank": "1201 - 1400",
+    "website": "https://pdx.edu",
+    "location": "Portland OR",
+    "annual_tuition_cs_dept": "~$30,000/year",
+    "scholarship_info": "Maseeh College of Engineering and Computer Science offers scholarships for CS/CE/IT students. Check https://pdx.edu/financial-aid for specific opportunities."
+  },
+  {
+    "id": "uniVs10",
+    "name": "University of Central Arkansas",
+    "type": "public",
+    "rank": "951 - 1000",
+    "website": "https://uca.edu",
+    "location": "Conway AR",
+    "annual_tuition_cs_dept": "~$20,000/year",
+    "scholarship_info": "UCA offers STEM scholarships for CS/IT students through the College of Natural Sciences and Mathematics. Check https://uca.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs11",
+    "name": "University of North Florida",
+    "type": "public",
+    "rank": "952 - 1000",
+    "website": "https://unf.edu",
+    "location": "Jacksonville FL",
+    "annual_tuition_cs_dept": "~$27,000/year",
+    "scholarship_info": "UNF\u2019s School of Computing offers merit and need-based scholarships for CS/IT students. Check https://unf.edu/financial-aid for details."
+  },
+  {
+    "id": "uniVs12",
+    "name": "University of Central Oklahoma",
+    "type": "public",
+    "rank": "953 - 1000",
+    "website": "https://uco.edu",
+    "location": "Edmond OK",
+    "annual_tuition_cs_dept": "~$18,000/year",
+    "scholarship_info": "UCO\u2019s College of Mathematics and Science offers scholarships for CS/IT students. Check https://uco.edu/financial-aid for specific awards."
+  },
+  {
+    "id": "uniVs13",
+    "name": "University of Texas at Dallas",
+    "type": "public",
+    "rank": "351 - 400",
+    "website": "https://utdallas.edu",
+    "location": "Richardson TX",
+    "annual_tuition_cs_dept": "~$28,000/year",
+    "scholarship_info": "Erik Jonsson School of Engineering and Computer Science offers merit-based and need-based scholarships for CS/CE students. Check https://utdallas.edu/financial-aid."
+  },
+  {
+    "id": "uniVs14",
+    "name": "University of Florida",
+    "type": "public",
+    "rank": "461",
+    "website": "https://ufl.edu",
+    "location": "Gainesville FL",
+    "annual_tuition_cs_dept": "$28,659/year",
+    "scholarship_info": "UF\u2019s College of Engineering offers scholarships like the Gator Engineering Scholarship for CS/CE students. Check https://ufl.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs15",
+    "name": "Penn State University Park",
+    "type": "public",
+    "rank": "96",
+    "website": "https://psu.edu",
+    "location": "State College PA",
+    "annual_tuition_cs_dept": "$34,494/year",
+    "scholarship_info": "College of Engineering offers scholarships like the Penn State Engineering Scholarship for CS/CE students. Check https://psu.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs16",
+    "name": "University of Wisconsin\u2013Madison",
+    "type": "public",
+    "rank": "70",
+    "website": "https://wisc.edu",
+    "location": "Madison WI",
+    "annual_tuition_cs_dept": "$38,630/year",
+    "scholarship_info": "College of Engineering offers merit-based and diversity scholarships for CS/CE students. Check https://wisc.edu/financial-aid for details."
+  },
+  {
+    "id": "uniVs17",
+    "name": "Iowa State University",
+    "type": "public",
+    "rank": "351 - 400",
+    "website": "https://iastate.edu",
+    "location": "Ames IA",
+    "annual_tuition_cs_dept": "$28,170/year",
+    "scholarship_info": "College of Engineering offers scholarships for CS/CE students, including merit and need-based awards. Check https://iastate.edu/financial-aid."
+  },
+  {
+    "id": "uniVs18",
+    "name": "University of Delaware",
+    "type": "public",
+    "rank": "401 - 500",
+    "website": "https://udel.edu",
+    "location": "Newark DE",
+    "annual_tuition_cs_dept": "$35,000/year",
+    "scholarship_info": "College of Engineering offers scholarships for CS/CE students. Check https://udel.edu/students/financial-aid for details."
+  },
+  {
+    "id": "uniVs19",
+    "name": "Colorado State University",
+    "type": "public",
+    "rank": "401 - 500",
+    "website": "https://colostate.edu",
+    "location": "Fort Collins CO",
+    "annual_tuition_cs_dept": "$30,000/year",
+    "scholarship_info": "Walter Scott, Jr. College of Engineering offers scholarships for CS/CE students. Check https://colostate.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs20",
+    "name": "University at Buffalo, SUNY",
+    "type": "public",
+    "rank": "301 - 350",
+    "website": "https://buffalo.edu",
+    "location": "Buffalo NY",
+    "annual_tuition_cs_dept": "$30,000/year",
+    "scholarship_info": "School of Engineering and Applied Sciences offers scholarships for CS/CE students. Check https://buffalo.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs21",
+    "name": "University of Alabama at Birmingham",
+    "type": "public",
+    "rank": "301 - 350",
+    "website": "https://uab.edu",
+    "location": "Birmingham AL",
+    "annual_tuition_cs_dept": "$28,000/year",
+    "scholarship_info": "UAB\u2019s School of Engineering offers scholarships for CS/CE students. Check https://uab.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs22",
+    "name": "Oklahoma State University",
+    "type": "public",
+    "rank": "301 - 350",
+    "website": "https://okstate.edu",
+    "location": "Stillwater OK",
+    "annual_tuition_cs_dept": "$23,000/year",
+    "scholarship_info": "College of Engineering offers scholarships for CS/CE students. Check https://okstate.edu/financial-aid for details."
+  },
+  {
+    "id": "uniVs23",
+    "name": "City University of New York (CUNY)",
+    "type": "public",
+    "rank": "501 - 550",
+    "website": "https://www.cuny.edu",
+    "location": "New York NY",
+    "annual_tuition_cs_dept": "~$28,000/year",
+    "scholarship_info": "CUNY offers scholarships through its engineering and CS departments. Check https://www.cuny.edu/financial-aid for details."
+  },
+  {
+    "id": "uniVs24",
+    "name": "University of Cincinnati",
+    "type": "public",
+    "rank": "501 - 550",
+    "website": "https://uc.edu",
+    "location": "Cincinnati OH",
+    "annual_tuition_cs_dept": "~$28,000/year",
+    "scholarship_info": "College of Engineering and Applied Science offers scholarships for CS/CE students. Check https://uc.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs25",
+    "name": "University of Nebraska\u2013Lincoln",
+    "type": "public",
+    "rank": "501 - 550",
+    "website": "https://unl.edu",
+    "location": "Lincoln NE",
+    "annual_tuition_cs_dept": "~$26,000/year",
+    "scholarship_info": "College of Engineering offers scholarships for CS/CE students. Check https://unl.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs26",
+    "name": "University of Oklahoma",
+    "type": "public",
+    "rank": "501 - 550",
+    "website": "https://ou.edu",
+    "location": "Norman OK",
+    "annual_tuition_cs_dept": "~$30,000/year",
+    "scholarship_info": "Gallogly College of Engineering offers scholarships for CS/CE students. Check https://ou.edu/financial-aid for details."
+  },
+  {
+    "id": "uniVs27",
+    "name": "University of South Florida (USF)",
+    "type": "public",
+    "rank": "501 - 550",
+    "website": "https://www.usf.edu",
+    "location": "Tampa FL",
+    "annual_tuition_cs_dept": "~$27,000/year",
+    "scholarship_info": "College of Engineering offers scholarships for CS/CE students. Check https://www.usf.edu/financial-aid for details."
+  },
+  {
+    "id": "uniVs28",
+    "name": "College of William & Mary",
+    "type": "public",
+    "rank": "551 - 600",
+    "website": "https://wm.edu",
+    "location": "Williamsburg VA",
+    "annual_tuition_cs_dept": "~$42,000/year",
+    "scholarship_info": "Limited CS scholarships; check https://wm.edu/financialaid for STEM awards."
+  },
+  {
+    "id": "uniVs29",
+    "name": "University of Massachusetts Boston",
+    "type": "public",
+    "rank": "601 - 650",
+    "website": "https://www.umb.edu",
+    "location": "Boston MA",
+    "annual_tuition_cs_dept": "~$30,000/year",
+    "scholarship_info": "College of Science and Mathematics offers scholarships for CS/IT students. Check https://www.umb.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs30",
+    "name": "University of Missouri\u2013Columbia",
+    "type": "public",
+    "rank": "601 - 650",
+    "website": "https://missouri.edu",
+    "location": "Columbia MO",
+    "annual_tuition_cs_dept": "~$29,000/year",
+    "scholarship_info": "College of Engineering offers scholarships for CS/CE students. Check https://missouri.edu/financial-aid for details."
+  },
+  {
+    "id": "uniVs31",
+    "name": "University of South Carolina",
+    "type": "public",
+    "rank": "601 - 650",
+    "website": "https://sc.edu",
+    "location": "Columbia SC",
+    "annual_tuition_cs_dept": "~$28,000/year",
+    "scholarship_info": "College of Engineering and Computing offers scholarships for CS/CE students. Check https://sc.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs33",
+    "name": "Louisiana State University (LSU)",
+    "type": "public",
+    "rank": "651 - 700",
+    "website": "https://lsu.edu",
+    "location": "Baton Rouge LA",
+    "annual_tuition_cs_dept": "~$28,000/year",
+    "scholarship_info": "College of Engineering offers scholarships for CS/CE students. Check https://lsu.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs34",
+    "name": "Missouri University of Science & Tech",
+    "type": "public",
+    "rank": "651 - 700",
+    "website": "https://mst.edu",
+    "location": "Rolla MO",
+    "annual_tuition_cs_dept": "~$29,000/year",
+    "scholarship_info": "Computer Science Department offers scholarships for CS students. Check https://mst.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs35",
+    "name": "Rutgers University Newark",
+    "type": "public",
+    "rank": "651 - 700",
+    "website": "https://newark.rutgers.edu",
+    "location": "Newark NJ",
+    "annual_tuition_cs_dept": "~$31,000/year",
+    "scholarship_info": "Department of Computer Science offers scholarships for CS students. Check https://newark.rutgers.edu/financial-aid for details."
+  },
+  {
+    "id": "uniVs37",
+    "name": "Temple University",
+    "type": "public",
+    "rank": "651 - 700",
+    "website": "https://temple.edu",
+    "location": "Philadelphia PA",
+    "annual_tuition_cs_dept": "~$30,000/year",
+    "scholarship_info": "College of Science and Technology offers scholarships for CS/IT students. Check https://temple.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs38",
+    "name": "University of Illinois at Chicago",
+    "type": "public",
+    "rank": "701-750",
+    "website": "https://uic.edu",
+    "location": "Chicago IL",
+    "annual_tuition_cs_dept": "~$32,000/year",
+    "scholarship_info": "College of Engineering offers scholarships for CS/CE students. Check https://uic.edu/financial-aid for details."
+  },
+  {
+    "id": "uniVs39",
+    "name": "University of Texas at Arlington",
+    "type": "public",
+    "rank": "701-750",
+    "website": "https://uta.edu",
+    "location": "Arlington TX",
+    "annual_tuition_cs_dept": "~$27,000/year",
+    "scholarship_info": "College of Engineering offers scholarships for CS/CE students. Check https://uta.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs40",
+    "name": "Florida International University",
+    "type": "public",
+    "rank": "751 - 800",
+    "website": "https://fiu.edu",
+    "location": "Miami FL",
+    "annual_tuition_cs_dept": "~$26,000/year",
+    "scholarship_info": "School of Computing and Information Sciences offers scholarships for CS/IT students. Check https://fiu.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs41",
+    "name": "George Mason University",
+    "type": "public",
+    "rank": "751 - 800",
+    "website": "https://gmu.edu",
+    "location": "Fairfax VA",
+    "annual_tuition_cs_dept": "~$30,000/year",
+    "scholarship_info": "Volgenau School of Engineering offers scholarships for CS/CE/IT students. Check https://gmu.edu/financial-aid for details."
+  },
+  {
+    "id": "uniVs42",
+    "name": "University of Texas at San Antonio",
+    "type": "public",
+    "rank": "1001 - 1050",
+    "website": "https://utsa.edu",
+    "location": "San Antonio TX",
+    "annual_tuition_cs_dept": "~$26,000/year",
+    "scholarship_info": "Pape-Dawson Engineers, Inc. Endowed Scholarship (CE); Michael Cude and Judy Cude Endowed Scholarship (CE); Mr. and Mrs. Milton F. Berry Civil Engineering Scholarship (CE); Digital Defense, Inc. Scholarship (CS, cybersecurity/software engineering focus); Edward Engates Memorial Scholarship (CS). Check https://utsa.edu/financialaid."
+  },
+  {
+    "id": "uniVs43",
+    "name": "Northern Illinois University",
+    "type": "public",
+    "rank": "1051 - 1100",
+    "website": "https://niu.edu",
+    "location": "DeKalb IL",
+    "annual_tuition_cs_dept": "~$26,000/year",
+    "scholarship_info": "College of Engineering and Engineering Technology offers scholarships for CS/CE students. Check https://niu.edu/financial-aid for details."
+  },
+  {
+    "id": "uniVs44",
+    "name": "University of Massachusetts Lowell",
+    "type": "public",
+    "rank": "901 - 950",
+    "website": "https://uml.edu",
+    "location": "Lowell MA",
+    "annual_tuition_cs_dept": "~$29,000/year",
+    "scholarship_info": "Francis College of Engineering offers scholarships for CS/CE students. Check https://uml.edu/financial-aid for details."
+  },
+  {
+    "id": "uniVs45",
+    "name": "New Jersey Institute of Technology",
+    "type": "public",
+    "rank": "951 - 1000",
+    "website": "https://njit.edu",
+    "location": "Newark NJ",
+    "annual_tuition_cs_dept": "~$34,000/year",
+    "scholarship_info": "College of Computing Sciences offers scholarships for CS/IT students. Check https://njit.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs46",
+    "name": "University of Nevada, Reno",
+    "type": "public",
+    "rank": "851 - 900",
+    "website": "https://unr.edu",
+    "location": "Reno NV",
+    "annual_tuition_cs_dept": "~$25,000/year",
+    "scholarship_info": "College of Engineering offers scholarships for CS/CE students. Check https://unr.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs47",
+    "name": "Oregon State University",
+    "type": "public",
+    "rank": "851 - 900",
+    "website": "https://oregonstate.edu",
+    "location": "Corvallis OR",
+    "annual_tuition_cs_dept": "~$30,000/year",
+    "scholarship_info": "College of Engineering offers scholarships for CS/CE students. Check https://oregonstate.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs48",
+    "name": "University of Alabama",
+    "type": "public",
+    "rank": "801 - 850",
+    "website": "https://ua.edu",
+    "location": "Tuscaloosa AL",
+    "annual_tuition_cs_dept": "~$28,000/year",
+    "scholarship_info": "College of Engineering offers scholarships for CS/CE students. Check https://ua.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs49",
+    "name": "University of Texas Rio Grande Valley",
+    "type": "public",
+    "rank": "1201 - 1400",
+    "website": "https://utrgv.edu",
+    "location": "Edinburg TX",
+    "annual_tuition_cs_dept": "~$18,000/year",
+    "scholarship_info": "UTRGV College of Engineering and Computer Science offers merit and need-based scholarships. Visit https://utrgv.edu/financialaid for details."
+  },
+  {
+    "id": "uniVs50",
+    "name": "California State University, Los Angeles",
+    "type": "public",
+    "rank": "1201 - 1400",
+    "website": "https://calstatela.edu",
+    "location": "Los Angeles CA",
+    "annual_tuition_cs_dept": "~$19,000/year",
+    "scholarship_info": "CSU LA offers scholarships for CS/CE students through the College of ECST. See https://calstatela.edu/finaid for info."
+  },
+  {
+    "id": "uniVs51",
+    "name": "Texas State University",
+    "type": "public",
+    "rank": "1201 - 1400",
+    "website": "https://txstate.edu",
+    "location": "San Marcos TX",
+    "annual_tuition_cs_dept": "~$22,000/year",
+    "scholarship_info": "Texas State offers CS/IT scholarships like Terry Scholarships and T-STEM. Details at https://txstate.edu/financialaid."
+  },
+  {
+    "id": "uniVs52",
+    "name": "California State University, Fullerton",
+    "type": "public",
+    "rank": "1201 - 1400",
+    "website": "https://fullerton.edu",
+    "location": "Fullerton CA",
+    "annual_tuition_cs_dept": "~$19,000/year",
+    "scholarship_info": "CSUF's College of Engineering & Computer Science offers CS scholarships. Visit https://fullerton.edu/financialaid."
+  },
+  {
+    "id": "uniVs53",
+    "name": "Wright State University",
+    "type": "public",
+    "rank": "1201 - 1400",
+    "website": "https://wright.edu",
+    "location": "Dayton OH",
+    "annual_tuition_cs_dept": "~$18,000/year",
+    "scholarship_info": "Wright State offers scholarships for CS/CE students, including merit-based awards. Details at https://wright.edu/financialaid."
+  },
+  {
+    "id": "uniVs54",
+    "name": "Boise State University",
+    "type": "public",
+    "rank": "1201 - 1400",
+    "website": "https://boisestate.edu",
+    "location": "Boise ID",
+    "annual_tuition_cs_dept": "~$24,000/year",
+    "scholarship_info": "Boise State's College of Engineering provides scholarships for CS/IT students. Check https://boisestate.edu/financialaid."
   }
 ]

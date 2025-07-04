@@ -10,6 +10,16 @@
     "scholarship_info": "Merit-based scholarships available for international students. Check the official financial aid website for details and deadlines: https://www.yu.edu/osf"
   },
   {
+    "id": "uniVs1_1",
+    "name": "Clarkson University",
+    "type": "private",
+    "rank": "651 - 700",
+    "website": "https://clarkson.edu",
+    "location": "Potsdam NY",
+    "annual_tuition_cs_dept": "~$37,000/year",
+    "scholarship_info": "Wallace H. Coulter School of Engineering offers scholarships for CS/CE students. Check https://clarkson.edu/financial-aid for details."
+  },
+  {
     "id": "uniVs2",
     "name": "Wake Forest University",
     "type": "Private",
