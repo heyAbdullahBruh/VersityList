@@ -34,14 +34,13 @@ const PrivateUni = () => {
             const { id, name, type, rank, location } = uni;
             return (
               <article key={id} id={styles.uniCard}>
+                <p id={styles.uniType}>{type}</p>
                 <h2>{name}</h2>
-                <p>{type}</p>
-                <h3>
-                  QS Rank {"->"} {rank}
-                </h3>
-                <h4>
-                  Location{"-->"} {location}
-                </h4>
+                <h3>QS Rank — {rank}</h3>
+                <h4>Location — {location}</h4>
+                <div id={styles.detailBtn}>
+                  <button>See Details</button>
+                </div>
               </article>
             );
           })}

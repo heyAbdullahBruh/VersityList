@@ -1,10 +1,13 @@
-.versity{
+.versity {
     width: 100%;
 }
 
 #headV {
     font-size: 2.5rem;
     border-bottom: 2px solid #74ffe1;
+    width: 22rem;
+    text-align: center;
+    margin: 2rem auto;
 }
 
 .uniCont {
@@ -18,8 +21,41 @@
 }
 
 
-#uniCard{
+#uniCard {
     width: 20rem;
     box-shadow: 1px 1px 2px 2px #018f70;
     padding: 2em;
+    border-radius: 1rem;
+    transition: all .3s ease-in-out;
+
+    &:hover {
+        transform: translateY(-1rem) scale(1.01);
+        box-shadow: 2px 2px 4px 8px #798381;
+
+    }
+}
+
+#uniType {
+    background-color: #4c5f5e;
+    width: 4rem;
+    text-align: center;
+    padding: .2rem;
+    border-radius: 1rem;
+    color: #a2cf00;
+    text-shadow: 1px 1px 2px 4px black;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#detailBtn {
+    text-align: right;
+}
+
+#detailBtn button {
+    transition: all .3s ease-in-out;
+
+    &:hover {
+        background-color: cadetblue;
+        color: #0d1111;
+    }
 }
