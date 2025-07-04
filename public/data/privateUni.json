@@ -2,7 +2,7 @@
   {
     "id": "uniVs1",
     "name": "Yeshiva University",
-    "type": "private",
+    "type": "Private",
     "rank": "369",
     "website": "https://www.yu.edu/",
     "location": "New York, New York, USA",
@@ -12,7 +12,7 @@
   {
     "id": "uniVs2",
     "name": "Wake Forest University",
-    "type": "private",
+    "type": "Private",
     "rank": "451",
     "website": "https://www.wfu.edu/",
     "location": "Winston-Salem, North Carolina, USA",
@@ -22,7 +22,7 @@
   {
     "id": "uniVs3",
     "name": "University of Rochester",
-    "type": "private",
+    "type": "Private",
     "rank": "469",
     "website": "https://www.rochester.edu/",
     "location": "Rochester, New York, USA",
@@ -32,7 +32,7 @@
   {
     "id": "uniVs4",
     "name": "Pepperdine University",
-    "type": "private",
+    "type": "Private",
     "rank": "501-510",
     "website": "https://www.pepperdine.edu/",
     "location": "Malibu, California, USA",
@@ -42,7 +42,7 @@
   {
     "id": "uniVs5",
     "name": "Rensselaer Polytechnic Institute (RPI)",
-    "type": "private",
+    "type": "Private",
     "rank": "501-510",
     "website": "https://www.rpi.edu/",
     "location": "Troy, New York, USA",
@@ -52,7 +52,7 @@
   {
     "id": "uniVs6",
     "name": "Tulane University",
-    "type": "private",
+    "type": "Private",
     "rank": "521-530",
     "website": "https://tulane.edu/",
     "location": "New Orleans, Louisiana, USA",
@@ -62,7 +62,7 @@
   {
     "id": "uniVs7",
     "name": "Brandeis University",
-    "type": "private",
+    "type": "Private",
     "rank": "541-550",
     "website": "https://www.brandeis.edu/",
     "location": "Waltham, Massachusetts, USA",
@@ -72,7 +72,7 @@
   {
     "id": "uniVs8",
     "name": "Syracuse University",
-    "type": "private",
+    "type": "Private",
     "rank": "601-610",
     "website": "https://www.syracuse.edu/",
     "location": "Syracuse, New York, USA",
@@ -82,7 +82,7 @@
   {
     "id": "uniVs9",
     "name": "Lehigh University",
-    "type": "private",
+    "type": "Private",
     "rank": "611-620",
     "website": "https://www1.lehigh.edu/",
     "location": "Bethlehem, Pennsylvania, USA",
@@ -92,7 +92,7 @@
   {
     "id": "uniVs10",
     "name": "Southern Methodist University (SMU)",
-    "type": "private",
+    "type": "Private",
     "rank": "641-650",
     "website": "https://www.smu.edu/",
     "location": "Dallas, Texas, USA",
@@ -102,7 +102,7 @@
   {
     "id": "uniVs11",
     "name": "Stevens Institute of Technology",
-    "type": "private",
+    "type": "Private",
     "rank": "641-650",
     "website": "https://www.stevens.edu/",
     "location": "Hoboken, New Jersey, USA",
@@ -112,7 +112,7 @@
   {
     "id": "uniVs12",
     "name": "Baylor University",
-    "type": "private",
+    "type": "Private",
     "rank": "651-660",
     "website": "https://www.baylor.edu/",
     "location": "Waco, Texas, USA",
@@ -122,7 +122,7 @@
   {
     "id": "uniVs13",
     "name": "Worcester Polytechnic Institute (WPI)",
-    "type": "private",
+    "type": "Private",
     "rank": "661-670",
     "website": "https://www.wpi.edu/",
     "location": "Worcester, Massachusetts, USA",
@@ -132,7 +132,7 @@
   {
     "id": "uniVs14",
     "name": "Northeastern University",
-    "type": "private",
+    "type": "Private",
     "rank": "375",
     "website": "https://www.northeastern.edu/",
     "location": "Boston, Massachusetts, USA",
@@ -142,7 +142,7 @@
   {
     "id": "uniVs15",
     "name": "Illinois Institute of Technology",
-    "type": "private",
+    "type": "Private",
     "rank": "469",
     "website": "https://www.iit.edu/",
     "location": "Chicago, Illinois, USA",
@@ -152,7 +152,7 @@
   {
     "id": "uniVs16",
     "name": "Clark University",
-    "type": "private",
+    "type": "Private",
     "rank": "551-560",
     "website": "https://www.clarku.edu/",
     "location": "Worcester, Massachusetts, USA",
@@ -162,7 +162,7 @@
   {
     "id": "uniVs17",
     "name": "American University",
-    "type": "private",
+    "type": "Private",
     "rank": "561-570",
     "website": "https://www.american.edu/",
     "location": "Washington D.C., USA",
@@ -172,7 +172,7 @@
   {
     "id": "uniVs18",
     "name": "Fordham University",
-    "type": "private",
+    "type": "Private",
     "rank": "601-610",
     "website": "https://www.fordham.edu/",
     "location": "New York, New York, USA",
@@ -182,7 +182,7 @@
   {
     "id": "uniVs19",
     "name": "Drexel University",
-    "type": "private",
+    "type": "Private",
     "rank": "691-700",
     "website": "https://drexel.edu/",
     "location": "Philadelphia, Pennsylvania, USA",
@@ -192,7 +192,7 @@
   {
     "id": "uniVs20",
     "name": "University of San Francisco",
-    "type": "private",
+    "type": "Private",
     "rank": "691-700",
     "website": "https://www.usfca.edu/",
     "location": "San Francisco, California, USA",
@@ -202,7 +202,7 @@
   {
     "id": "uniVs21",
     "name": "Villanova University",
-    "type": "private",
+    "type": "Private",
     "rank": "611-620",
     "website": "https://www1.villanova.edu/",
     "location": "Villanova, Pennsylvania, USA",
@@ -212,7 +212,7 @@
   {
     "id": "uniVs22",
     "name": "Texas Christian University (TCU)",
-    "type": "private",
+    "type": "Private",
     "rank": "641-650",
     "website": "https://www.tcu.edu/",
     "location": "Fort Worth, Texas, USA",
@@ -222,7 +222,7 @@
   {
     "id": "uniVs24",
     "name": "Santa Clara University",
-    "type": "private",
+    "type": "Private",
     "rank": "551-560",
     "website": "https://www.scu.edu/",
     "location": "Santa Clara, California, USA",
@@ -232,7 +232,7 @@
   {
     "id": "uniVs25",
     "name": "The New School",
-    "type": "private",
+    "type": "Private",
     "rank": "641-650",
     "website": "https://www.newschool.edu/",
     "location": "New York, New York, USA",
@@ -242,7 +242,7 @@
   {
     "id": "uniVs26",
     "name": "University of Denver",
-    "type": "private",
+    "type": "Private",
     "rank": "651-660",
     "website": "https://www.du.edu/",
     "location": "Denver, Colorado, USA",
@@ -252,7 +252,7 @@
   {
     "id": "uniVs27",
     "name": "Rochester Institute of Technology (RIT)",
-    "type": "private",
+    "type": "Private",
     "rank": "661-670",
     "website": "https://www.rit.edu/",
     "location": "Rochester, New York, USA",
@@ -262,7 +262,7 @@
   {
     "id": "uniVs28",
     "name": "Brigham Young University (BYU)",
-    "type": "private",
+    "type": "Private",
     "rank": "486",
     "website": "https://www.byu.edu/",
     "location": "Provo, Utah, USA",
@@ -272,7 +272,7 @@
   {
     "id": "uniVs29",
     "name": "University of Tulsa",
-    "type": "private",
+    "type": "Private",
     "rank": "691-700",
     "website": "https://utulsa.edu/",
     "location": "Tulsa, Oklahoma, USA",
@@ -282,7 +282,7 @@
   {
     "id": "uniVs30",
     "name": "Loyola Marymount University (LMU)",
-    "type": "private",
+    "type": "Private",
     "rank": "641-650",
     "website": "https://www.lmu.edu/",
     "location": "Los Angeles, California, USA",
@@ -292,7 +292,7 @@
   {
     "id": "uniVs31",
     "name": "Marquette University",
-    "type": "private",
+    "type": "Private",
     "rank": "661-670",
     "website": "https://www.marquette.edu/",
     "location": "Milwaukee, Wisconsin, USA",
@@ -302,7 +302,7 @@
   {
     "id": "uniVs32",
     "name": "Creighton University",
-    "type": "private",
+    "type": "Private",
     "rank": "661-670",
     "website": "https://www.creighton.edu/",
     "location": "Omaha, Nebraska, USA",
@@ -312,7 +312,7 @@
   {
     "id": "uniVs33",
     "name": "Seton Hall University",
-    "type": "private",
+    "type": "Private",
     "rank": "691-700",
     "website": "https://www.shu.edu/",
     "location": "South Orange, New Jersey, USA",
@@ -322,7 +322,7 @@
   {
     "id": "uniVs34",
     "name": "St. John's University",
-    "type": "private",
+    "type": "Private",
     "rank": "651-660",
     "website": "https://www.stjohns.edu/",
     "location": "Queens, New York, USA",
@@ -332,7 +332,7 @@
   {
     "id": "uniVs35",
     "name": "DePaul University",
-    "type": "private",
+    "type": "Private",
     "rank": "691-700",
     "website": "https://www.depaul.edu/",
     "location": "Chicago, Illinois, USA",
@@ -342,7 +342,7 @@
   {
     "id": "uniVs36",
     "name": "George Washington University",
-    "type": "private",
+    "type": "Private",
     "rank": "340",
     "website": "https://www.gwu.edu/",
     "location": "Washington D.C., USA",
@@ -352,7 +352,7 @@
   {
     "id": "uniVs37",
     "name": "University of San Diego",
-    "type": "private",
+    "type": "Private",
     "rank": "721-730",
     "website": "https://www.sandiego.edu/",
     "location": "San Diego, California, USA",
@@ -362,7 +362,7 @@
   {
     "id": "uniVs38",
     "name": "Saint Louis University",
-    "type": "private",
+    "type": "Private",
     "rank": "601-610",
     "website": "https://www.slu.edu/",
     "location": "St. Louis, Missouri, USA",
@@ -372,7 +372,7 @@
   {
     "id": "uniVs39",
     "name": "Catholic University of America",
-    "type": "private",
+    "type": "Private",
     "rank": "641-650",
     "website": "https://www.catholic.edu/",
     "location": "Washington D.C., USA",
@@ -382,7 +382,7 @@
   {
     "id": "uniVs40",
     "name": "Florida Institute of Technology",
-    "type": "private",
+    "type": "Private",
     "rank": "691-700",
     "website": "https://www.fit.edu/",
     "location": "Melbourne, Florida, USA",
@@ -392,7 +392,7 @@
   {
     "id": "uniVs41",
     "name": "Hofstra University",
-    "type": "private",
+    "type": "Private",
     "rank": "711-720",
     "website": "https://www.hofstra.edu/",
     "location": "Hempstead, New York, USA",
@@ -402,7 +402,7 @@
   {
     "id": "uniVs42",
     "name": "University of the Pacific",
-    "type": "private",
+    "type": "Private",
     "rank": "731-740",
     "website": "https://www.pacific.edu/",
     "location": "Stockton, California, USA",
@@ -412,7 +412,7 @@
   {
     "id": "uniVs43",
     "name": "Bentley University",
-    "type": "private",
+    "type": "Private",
     "rank": "731-740",
     "website": "https://www.bentley.edu/",
     "location": "Waltham, Massachusetts, USA",
@@ -422,7 +422,7 @@
   {
     "id": "uniVs44",
     "name": "Adelphi University",
-    "type": "private",
+    "type": "Private",
     "rank": "741-750",
     "website": "https://www.adelphi.edu/",
     "location": "Garden City, New York, USA",
@@ -432,7 +432,7 @@
   {
     "id": "uniVs45",
     "name": "Suffolk University",
-    "type": "private",
+    "type": "Private",
     "rank": "751-800",
     "website": "https://www.suffolk.edu/",
     "location": "Boston, Massachusetts, USA",
@@ -442,7 +442,7 @@
   {
     "id": "uniVs46",
     "name": "Tufts University",
-    "type": "private",
+    "type": "Private",
     "rank": "344",
     "website": "https://www.tufts.edu/",
     "location": "Medford, Massachusetts, USA",
@@ -452,7 +452,7 @@
   {
     "id": "uniVs47",
     "name": "Georgetown University",
-    "type": "private",
+    "type": "Private",
     "rank": "301",
     "website": "https://www.georgetown.edu/",
     "location": "Washington, D.C., USA",
@@ -462,7 +462,7 @@
   {
     "id": "uniVs48",
     "name": "University of Notre Dame",
-    "type": "private",
+    "type": "Private",
     "rank": "316",
     "website": "https://www.nd.edu/",
     "location": "Notre Dame, Indiana, USA",
@@ -473,7 +473,7 @@
   {
     "id": "uniVs50",
     "name": "Chapman University",
-    "type": "private",
+    "type": "Private",
     "rank": "701-750",
     "website": "https://www.chapman.edu/",
     "location": "Orange, California, USA",
@@ -483,7 +483,7 @@
   {
     "id": "uniVs51",
     "name": "Duquesne University",
-    "type": "private",
+    "type": "Private",
     "rank": "701-750",
     "website": "https://www.duq.edu/",
     "location": "Pittsburgh, Pennsylvania, USA",
@@ -493,7 +493,7 @@
   {
     "id": "uniVs52",
     "name": "Illinois Institute of Technology",
-    "type": "private",
+    "type": "Private",
     "rank": "701-750",
     "website": "https://www.iit.edu/",
     "location": "Chicago, Illinois, USA",
@@ -503,7 +503,7 @@
   {
     "id": "uniVs53",
     "name": "Worcester Polytechnic Institute",
-    "type": "private",
+    "type": "Private",
     "rank": "751-800",
     "website": "https://www.wpi.edu/",
     "location": "Worcester, Massachusetts, USA",
@@ -513,7 +513,7 @@
   {
     "id": "uniVs54",
     "name": "Marquette University",
-    "type": "private",
+    "type": "Private",
     "rank": "751-800",
     "website": "https://www.marquette.edu/",
     "location": "Milwaukee, Wisconsin, USA",
@@ -523,7 +523,7 @@
   {
     "id": "uniVs55",
     "name": "Loyola University Chicago",
-    "type": "private",
+    "type": "Private",
     "rank": "751-800",
     "website": "https://www.luc.edu/",
     "location": "Chicago, Illinois, USA",
@@ -533,7 +533,7 @@
   {
     "id": "uniVs56",
     "name": "Seton Hall University",
-    "type": "private",
+    "type": "Private",
     "rank": "801-850",
     "website": "https://www.shu.edu/",
     "location": "South Orange, New Jersey, USA",
@@ -543,7 +543,7 @@
   {
     "id": "uniVs57",
     "name": "Creighton University",
-    "type": "private",
+    "type": "Private",
     "rank": "801-850",
     "website": "https://www.creighton.edu/",
     "location": "Omaha, Nebraska, USA",
@@ -553,7 +553,7 @@
   {
     "id": "uniVs59",
     "name": "Fairfield University",
-    "type": "private",
+    "type": "Private",
     "rank": "701-750",
     "website": "https://www.fairfield.edu/",
     "location": "Fairfield, Connecticut, USA",
@@ -563,7 +563,7 @@
   {
     "id": "uniVs60",
     "name": "Seattle University",
-    "type": "private",
+    "type": "Private",
     "rank": "701-750",
     "website": "https://www.seattleu.edu/",
     "location": "Seattle, Washington, USA",
@@ -573,7 +573,7 @@
   {
     "id": "uniVs61",
     "name": "Loyola Marymount University",
-    "type": "private",
+    "type": "Private",
     "rank": "751-800",
     "website": "https://www.lmu.edu/",
     "location": "Los Angeles, California, USA",
@@ -583,7 +583,7 @@
   {
     "id": "uniVs62",
     "name": "Elon University",
-    "type": "private",
+    "type": "Private",
     "rank": "751-800",
     "website": "https://www.elon.edu/",
     "location": "Elon, North Carolina, USA",
@@ -593,7 +593,7 @@
   {
     "id": "uniVs63",
     "name": "Regis University",
-    "type": "private",
+    "type": "Private",
     "rank": "801-850",
     "website": "https://www.regis.edu/",
     "location": "Denver, Colorado, USA",
@@ -603,7 +603,7 @@
   {
     "id": "uniVs64",
     "name": "Saint Joseph's University",
-    "type": "private",
+    "type": "Private",
     "rank": "801-850",
     "website": "https://www.sju.edu/",
     "location": "Philadelphia, Pennsylvania, USA",
@@ -613,7 +613,7 @@
   {
     "id": "uniVs65",
     "name": "Duquesne University",
-    "type": "private",
+    "type": "Private",
     "rank": "801-850",
     "website": "https://www.duq.edu/",
     "location": "Pittsburgh, Pennsylvania, USA",
@@ -623,7 +623,7 @@
   {
     "id": "uniVs66",
     "name": "Mercer University",
-    "type": "private",
+    "type": "Private",
     "rank": "851-900",
     "website": "https://www.mercer.edu/",
     "location": "Macon, Georgia, USA",
@@ -633,7 +633,7 @@
   {
     "id": "uniVs67",
     "name": "Marist College",
-    "type": "private",
+    "type": "Private",
     "rank": "851-900",
     "website": "https://www.marist.edu/",
     "location": "Poughkeepsie, New York, USA",
@@ -643,7 +643,7 @@
   {
     "id": "uniVs68",
     "name": "Saint Louis University",
-    "type": "private",
+    "type": "Private",
     "rank": "851-900",
     "website": "https://www.slu.edu/",
     "location": "St. Louis, Missouri, USA",
@@ -653,7 +653,7 @@
   {
     "id": "uniVs69",
     "name": "Hofstra University",
-    "type": "private",
+    "type": "Private",
     "rank": "901-950",
     "website": "https://www.hofstra.edu/",
     "location": "Hempstead, New York, USA",
@@ -663,7 +663,7 @@
   {
     "id": "uniVs70",
     "name": "Suffolk University",
-    "type": "private",
+    "type": "Private",
     "rank": "901-950",
     "website": "https://www.suffolk.edu/",
     "location": "Boston, Massachusetts, USA",
@@ -673,7 +673,7 @@
   {
     "id": "uniVs71",
     "name": "Bentley University",
-    "type": "private",
+    "type": "Private",
     "rank": "951-1000",
     "website": "https://www.bentley.edu/",
     "location": "Waltham, Massachusetts, USA",
@@ -683,7 +683,7 @@
   {
     "id": "uniVs72",
     "name": "Adelphi University",
-    "type": "private",
+    "type": "Private",
     "rank": "951-1000",
     "website": "https://www.adelphi.edu/",
     "location": "Garden City, New York, USA",
@@ -693,7 +693,7 @@
   {
     "id": "uniVs73",
     "name": "Ithaca College",
-    "type": "private",
+    "type": "Private",
     "rank": "951-1000",
     "website": "https://www.ithaca.edu/",
     "location": "Ithaca, New York, USA",
@@ -703,7 +703,7 @@
   {
     "id": "uniVs74",
     "name": "Hawaii Pacific University",
-    "type": "private",
+    "type": "Private",
     "rank": "951-1000",
     "website": "https://www.hpu.edu/",
     "location": "Honolulu, Hawaii, USA",
@@ -713,7 +713,7 @@
   {
     "id": "uniVs75",
     "name": "St. John's University (New York)",
-    "type": "private",
+    "type": "Private",
     "rank": "951-1000",
     "website": "https://www.stjohns.edu/",
     "location": "Queens, New York, USA",
@@ -723,7 +723,7 @@
   {
     "id": "uniVs76",
     "name": "DePaul University",
-    "type": "private",
+    "type": "Private",
     "rank": "951-1000",
     "website": "https://www.depaul.edu/",
     "location": "Chicago, Illinois, USA",
@@ -733,7 +733,7 @@
   {
     "id": "uniVs77",
     "name": "Saint John's University (Minnesota)",
-    "type": "private",
+    "type": "Private",
     "rank": "951-1000",
     "website": "https://www.csbsju.edu/",
     "location": "Collegeville, Minnesota, USA",
@@ -743,7 +743,7 @@
   {
     "id": "uniVs78",
     "name": "Bradley University",
-    "type": "private",
+    "type": "Private",
     "rank": "951-1000",
     "website": "https://www.bradley.edu/",
     "location": "Peoria, Illinois, USA",
@@ -753,7 +753,7 @@
   {
     "id": "uniVs79",
     "name": "Mercer University",
-    "type": "private",
+    "type": "Private",
     "rank": "951-1000",
     "website": "https://www.mercer.edu/",
     "location": "Macon, Georgia, USA",
@@ -763,7 +763,7 @@
   {
     "id": "uniVs80",
     "name": "Marist College",
-    "type": "private",
+    "type": "Private",
     "rank": "951-1000",
     "website": "https://www.marist.edu/",
     "location": "Poughkeepsie, New York, USA",
@@ -773,7 +773,7 @@
   {
     "id": "uniVs81",
     "name": "Saint Joseph's University",
-    "type": "private",
+    "type": "Private",
     "rank": "951-1000",
     "website": "https://www.sju.edu/",
     "location": "Philadelphia, Pennsylvania, USA",
@@ -783,7 +783,7 @@
   {
     "id": "uniVs82",
     "name": "Regis University",
-    "type": "private",
+    "type": "Private",
     "rank": "951-1000",
     "website": "https://www.regis.edu/",
     "location": "Denver, Colorado, USA",
@@ -793,7 +793,7 @@
   {
     "id": "uniVs83",
     "name": "Duquesne University",
-    "type": "private",
+    "type": "Private",
     "rank": "951-1000",
     "website": "https://www.duq.edu/",
     "location": "Pittsburgh, Pennsylvania, USA",
@@ -803,7 +803,7 @@
   {
     "id": "uniVs84",
     "name": "Fairleigh Dickinson University",
-    "type": "private",
+    "type": "Private",
     "rank": "951-1000",
     "website": "https://www.fdu.edu/",
     "location": "Madison, New Jersey, USA",
@@ -813,7 +813,7 @@
   {
     "id": "uniVs85",
     "name": "California Lutheran University",
-    "type": "private",
+    "type": "Private",
     "rank": "951-1000",
     "website": "https://www.callutheran.edu/",
     "location": "Thousand Oaks, California, USA",
@@ -823,7 +823,7 @@
   {
     "id": "uniVs86",
     "name": "Saint Peter's University",
-    "type": "private",
+    "type": "Private",
     "rank": "951-1000",
     "website": "https://www.saintpeters.edu/",
     "location": "Jersey City, New Jersey, USA",
@@ -833,7 +833,7 @@
   {
     "id": "uniVs87",
     "name": "University of the Pacific",
-    "type": "private",
+    "type": "Private",
     "rank": "951-1000",
     "website": "https://www.pacific.edu/",
     "location": "Stockton, California, USA",
@@ -843,7 +843,7 @@
   {
     "id": "uniVs88",
     "name": "Molloy College",
-    "type": "private",
+    "type": "Private",
     "rank": "951-1000",
     "website": "https://www.molloy.edu/",
     "location": "Rockville Centre, New York, USA",
