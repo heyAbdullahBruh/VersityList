@@ -1,0 +1,32 @@
+[
+  {
+    "id": "23",
+    "name": "Howard University",
+    "type": "public",
+    "rank": "601-610",
+    "website": "https://howard.edu/",
+    "location": "Washington D.C., USA",
+    "annual_tuition_cs_dept": "$30,584–32,878 USD (undergraduate tuition; program‑specific may vary) :contentReference[oaicite:2]{index=2}",
+    "scholarship_info": "HUFS: freshman merit & need‑based scholarships. Karsh STEM Scholars program offers tuition+room/board/books for STEM majors. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "id": "49",
+    "name": "Stony Brook University",
+    "type": "public",
+    "rank": "701-750",
+    "website": "https://www.stonybrook.edu/",
+    "location": "Stony Brook, New York, USA",
+    "annual_tuition_cs_dept": "~$28,000 (out-of-state)",
+    "scholarship_info": "Merit scholarships available; mostly a public university."
+  },
+  {
+    "id": "58",
+    "name": "DuPont Manual High School",
+    "type": "public",
+    "rank": "N/A",
+    "website": "https://manual.mpsd.k12.ky.us/",
+    "location": "Louisville, Kentucky, USA",
+    "annual_tuition_cs_dept": "N/A",
+    "scholarship_info": "Public school."
+  }
+]

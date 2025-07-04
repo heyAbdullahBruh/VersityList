@@ -1,0 +1,853 @@
+[
+  {
+    "id": "1",
+    "name": "Yeshiva University",
+    "type": "private",
+    "rank": "369",
+    "website": "https://www.yu.edu/",
+    "location": "New York, New York, USA",
+    "annual_tuition_cs_dept": "$52,000 - $55,000 USD (approx. per year, please verify)",
+    "scholarship_info": "Merit-based scholarships available for international students. Check the official financial aid website for details and deadlines: https://www.yu.edu/osf"
+  },
+  {
+    "id": "2",
+    "name": "Wake Forest University",
+    "type": "private",
+    "rank": "451",
+    "website": "https://www.wfu.edu/",
+    "location": "Winston-Salem, North Carolina, USA",
+    "annual_tuition_cs_dept": "$62,000 - $65,000 USD (approx. per year, please verify)",
+    "scholarship_info": "Offers both need-based and merit-based aid to a limited number of international students. More info: https://admissions.wfu.edu/international/afford/"
+  },
+  {
+    "id": "3",
+    "name": "University of Rochester",
+    "type": "private",
+    "rank": "469",
+    "website": "https://www.rochester.edu/",
+    "location": "Rochester, New York, USA",
+    "annual_tuition_cs_dept": "$61,000 - $64,000 USD (approx. per year, please verify)",
+    "scholarship_info": "International students are eligible for merit-based scholarships. Details at: https://enrollment.rochester.edu/international/applying/scholarships-and-aid/"
+  },
+  {
+    "id": "4",
+    "name": "Pepperdine University",
+    "type": "private",
+    "rank": "501-510",
+    "website": "https://www.pepperdine.edu/",
+    "location": "Malibu, California, USA",
+    "annual_tuition_cs_dept": "$60,000 - $63,000 USD (approx. per year, please verify)",
+    "scholarship_info": "Limited merit scholarships for international students at the time of admission. Visit: https://www.pepperdine.edu/financial-assistance/undergraduate/types/scholarships/"
+  },
+  {
+    "id": "5",
+    "name": "Rensselaer Polytechnic Institute (RPI)",
+    "type": "private",
+    "rank": "501-510",
+    "website": "https://www.rpi.edu/",
+    "location": "Troy, New York, USA",
+    "annual_tuition_cs_dept": "$60,000 - $62,000 USD (approx. per year, please verify)",
+    "scholarship_info": "Merit-based scholarships are available for all applicants, including international students. Details: https://admissions.rpi.edu/aid"
+  },
+  {
+    "id": "6",
+    "name": "Tulane University",
+    "type": "private",
+    "rank": "521-530",
+    "website": "https://tulane.edu/",
+    "location": "New Orleans, Louisiana, USA",
+    "annual_tuition_cs_dept": "$60,000 - $63,000 USD (approx. per year, please verify)",
+    "scholarship_info": "Offers partial merit-based scholarships for international students. Check their financial aid page: https://financialaid.tulane.edu/types-of-aid/international"
+  },
+  {
+    "id": "7",
+    "name": "Brandeis University",
+    "type": "private",
+    "rank": "541-550",
+    "website": "https://www.brandeis.edu/",
+    "location": "Waltham, Massachusetts, USA",
+    "annual_tuition_cs_dept": "$61,000 - $64,000 USD (approx. per year, please verify)",
+    "scholarship_info": "Offers both need-based and merit-based scholarships to international students. Details: https://www.brandeis.edu/admissions/financial-aid/international.html"
+  },
+  {
+    "id": "8",
+    "name": "Syracuse University",
+    "type": "private",
+    "rank": "601-610",
+    "website": "https://www.syracuse.edu/",
+    "location": "Syracuse, New York, USA",
+    "annual_tuition_cs_dept": "$58,000 - $61,000 USD (approx. per year, please verify)",
+    "scholarship_info": "Merit-based scholarships are available for qualified international students. More info: https://www.syracuse.edu/admissions/cost-and-aid/scholarships/"
+  },
+  {
+    "id": "9",
+    "name": "Lehigh University",
+    "type": "private",
+    "rank": "611-620",
+    "website": "https://www1.lehigh.edu/",
+    "location": "Bethlehem, Pennsylvania, USA",
+    "annual_tuition_cs_dept": "$59,000 - $62,000 USD (approx. per year, please verify)",
+    "scholarship_info": "Limited need-based financial aid and merit scholarships available for international students. Visit: https://finaid.lehigh.edu/undergraduate/international-students"
+  },
+  {
+    "id": "10",
+    "name": "Southern Methodist University (SMU)",
+    "type": "private",
+    "rank": "641-650",
+    "website": "https://www.smu.edu/",
+    "location": "Dallas, Texas, USA",
+    "annual_tuition_cs_dept": "$58,000 - $61,000 USD (approx. per year, please verify)",
+    "scholarship_info": "SMU offers merit-based scholarships for international students. Details can be found at: https://www.smu.edu/admission/financialaid/scholarships"
+  },
+  {
+    "id": "11",
+    "name": "Stevens Institute of Technology",
+    "type": "private",
+    "rank": "641-650",
+    "website": "https://www.stevens.edu/",
+    "location": "Hoboken, New Jersey, USA",
+    "annual_tuition_cs_dept": "$58,000 - $60,000 USD ...",
+    "scholarship_info": "All undergraduate applicants are automatically considered for merit scholarships. Info: https://www.stevens.edu/..."
+  },
+  {
+    "id": "12",
+    "name": "Baylor University",
+    "type": "private",
+    "rank": "651-660",
+    "website": "https://www.baylor.edu/",
+    "location": "Waco, Texas, USA",
+    "annual_tuition_cs_dept": "$52,000 - $55,000 USD ...",
+    "scholarship_info": "International students are eligible for academic (merit-based) scholarships. Check: https://admissions.baylor.edu/..."
+  },
+  {
+    "id": "13",
+    "name": "Worcester Polytechnic Institute (WPI)",
+    "type": "private",
+    "rank": "661-670",
+    "website": "https://www.wpi.edu/",
+    "location": "Worcester, Massachusetts, USA",
+    "annual_tuition_cs_dept": "$56,000 - $59,000 USD ...",
+    "scholarship_info": "WPI offers merit-based scholarships to international students upon admission. Details: https://www.wpi.edu/..."
+  },
+  {
+    "id": "14",
+    "name": "Northeastern University",
+    "type": "private",
+    "rank": "375",
+    "website": "https://www.northeastern.edu/",
+    "location": "Boston, Massachusetts, USA",
+    "annual_tuition_cs_dept": "$62,000 - $65,000 USD ...",
+    "scholarship_info": "Offers limited need-based and merit-based aid to international students. Check: https://studentfinance.northeastern.edu/..."
+  },
+  {
+    "id": "15",
+    "name": "Illinois Institute of Technology",
+    "type": "private",
+    "rank": "469",
+    "website": "https://www.iit.edu/",
+    "location": "Chicago, Illinois, USA",
+    "annual_tuition_cs_dept": "$50,000 - $53,000 USD ...",
+    "scholarship_info": "Generous merit scholarships for international students, like the 'Hebz-IIT Scholarship'. Visit: https://www.iit.edu/admissions-aid/scholarships"
+  },
+  {
+    "id": "16",
+    "name": "Clark University",
+    "type": "private",
+    "rank": "551-560",
+    "website": "https://www.clarku.edu/",
+    "location": "Worcester, Massachusetts, USA",
+    "annual_tuition_cs_dept": "$52,000 - $54,000 USD ...",
+    "scholarship_info": "All applicants are considered for merit scholarships. Clark also offers a 'Global Scholars Program'."
+  },
+  {
+    "id": "17",
+    "name": "American University",
+    "type": "private",
+    "rank": "561-570",
+    "website": "https://www.american.edu/",
+    "location": "Washington D.C., USA",
+    "annual_tuition_cs_dept": "$54,000 - $57,000 USD ...",
+    "scholarship_info": "Offers the 'AU Emerging Global Leader Scholarship' for one international student. Limited other merit awards."
+  },
+  {
+    "id": "18",
+    "name": "Fordham University",
+    "type": "private",
+    "rank": "601-610",
+    "website": "https://www.fordham.edu/",
+    "location": "New York, New York, USA",
+    "annual_tuition_cs_dept": "$57,000 - $60,000 USD ...",
+    "scholarship_info": "International students are eligible for a limited number of merit and talent-based scholarships."
+  },
+  {
+    "id": "19",
+    "name": "Drexel University",
+    "type": "private",
+    "rank": "691-700",
+    "website": "https://drexel.edu/",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "annual_tuition_cs_dept": "$57,000 - $60,000 USD ...",
+    "scholarship_info": "Drexel offers merit scholarships to qualified international applicants."
+  },
+  {
+    "id": "20",
+    "name": "University of San Francisco",
+    "type": "private",
+    "rank": "691-700",
+    "website": "https://www.usfca.edu/",
+    "location": "San Francisco, California, USA",
+    "annual_tuition_cs_dept": "$55,000 - $58,000 USD ...",
+    "scholarship_info": "USF offers merit scholarships to international students at the time of admission."
+  },
+  {
+    "id": "21",
+    "name": "Villanova University",
+    "type": "private",
+    "rank": "611-620",
+    "website": "https://www1.villanova.edu/",
+    "location": "Villanova, Pennsylvania, USA",
+    "annual_tuition_cs_dept": "$66,838 USD (undergrad total cost) approximately",
+    "scholarship_info": "Merit‑based Presidential and St. Martin de Porres scholarships; need‑based grants and Tuition Exchange opportunities. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "id": "22",
+    "name": "Texas Christian University (TCU)",
+    "type": "private",
+    "rank": "641-650",
+    "website": "https://www.tcu.edu/",
+    "location": "Fort Worth, Texas, USA",
+    "annual_tuition_cs_dept": "~$57,000–60,000 USD per year (from your list)",
+    "scholarship_info": "Merit‑based scholarships for international students, ranging from $15,000 to full tuition."
+  },
+  {
+    "id": "24",
+    "name": "Santa Clara University",
+    "type": "private",
+    "rank": "551-560",
+    "website": "https://www.scu.edu/",
+    "location": "Santa Clara, California, USA",
+    "annual_tuition_cs_dept": "$58,000–61,000 USD per year (from your list)",
+    "scholarship_info": "Merit‑based scholarships considered automatically; check university financial aid site."
+  },
+  {
+    "id": "25",
+    "name": "The New School",
+    "type": "private",
+    "rank": "641-650",
+    "website": "https://www.newschool.edu/",
+    "location": "New York, New York, USA",
+    "annual_tuition_cs_dept": "$53,000–56,000 USD per year (from your list)",
+    "scholarship_info": "Merit‑based scholarships available to international students at admission."
+  },
+  {
+    "id": "26",
+    "name": "University of Denver",
+    "type": "private",
+    "rank": "651-660",
+    "website": "https://www.du.edu/",
+    "location": "Denver, Colorado, USA",
+    "annual_tuition_cs_dept": "$56,000–59,000 USD per year (from your list)",
+    "scholarship_info": "Merit scholarships for international students, automatically considered—see DU financial aid site."
+  },
+  {
+    "id": "27",
+    "name": "Rochester Institute of Technology (RIT)",
+    "type": "private",
+    "rank": "661-670",
+    "website": "https://www.rit.edu/",
+    "location": "Rochester, New York, USA",
+    "annual_tuition_cs_dept": "$54,000–57,000 USD per year (from your list)",
+    "scholarship_info": "Generous merit‑based scholarships for international students, automatically considered."
+  },
+  {
+    "id": "28",
+    "name": "Brigham Young University (BYU)",
+    "type": "private",
+    "rank": "486",
+    "website": "https://www.byu.edu/",
+    "location": "Provo, Utah, USA",
+    "annual_tuition_cs_dept": "$13,000–14,000 USD (non‑LDS rate, heavily subsidized; from your list)",
+    "scholarship_info": "Limited merit & need‑based scholarships for international students; LDS sponsorship reduces cost."
+  },
+  {
+    "id": "29",
+    "name": "University of Tulsa",
+    "type": "private",
+    "rank": "691-700",
+    "website": "https://utulsa.edu/",
+    "location": "Tulsa, Oklahoma, USA",
+    "annual_tuition_cs_dept": "$45,000–48,000 USD per year (from your list)",
+    "scholarship_info": "Competitive academic scholarships for international students; see Tulsa admissions site."
+  },
+  {
+    "id": "30",
+    "name": "Loyola Marymount University (LMU)",
+    "type": "private",
+    "rank": "641-650",
+    "website": "https://www.lmu.edu/",
+    "location": "Los Angeles, California, USA",
+    "annual_tuition_cs_dept": "$55,000–58,000 USD per year (from your list)",
+    "scholarship_info": "Several merit scholarships and grants; international students automatically considered."
+  },
+  {
+    "id": "31",
+    "name": "Marquette University",
+    "type": "private",
+    "rank": "661-670",
+    "website": "https://www.marquette.edu/",
+    "location": "Milwaukee, Wisconsin, USA",
+    "annual_tuition_cs_dept": "$47,000 - $50,000 USD (approx. per year)",
+    "scholarship_info": "The Père Marquette Scholarship program offers awards to international students based on academic merit."
+  },
+  {
+    "id": "32",
+    "name": "Creighton University",
+    "type": "private",
+    "rank": "661-670",
+    "website": "https://www.creighton.edu/",
+    "location": "Omaha, Nebraska, USA",
+    "annual_tuition_cs_dept": "$45,000 - $48,000 USD (approx. per year)",
+    "scholarship_info": "International students are eligible for merit-based scholarships upon review of their application."
+  },
+  {
+    "id": "33",
+    "name": "Seton Hall University",
+    "type": "private",
+    "rank": "691-700",
+    "website": "https://www.shu.edu/",
+    "location": "South Orange, New Jersey, USA",
+    "annual_tuition_cs_dept": "$48,000 - $51,000 USD (approx. per year)",
+    "scholarship_info": "Merit-based scholarships are available for international students."
+  },
+  {
+    "id": "34",
+    "name": "St. John's University",
+    "type": "private",
+    "rank": "651-660",
+    "website": "https://www.stjohns.edu/",
+    "location": "Queens, New York, USA",
+    "annual_tuition_cs_dept": "$48,000 - $51,000 USD (approx. per year)",
+    "scholarship_info": "Offers a wide range of academic scholarships for which international first-year students are automatically considered."
+  },
+  {
+    "id": "35",
+    "name": "DePaul University",
+    "type": "private",
+    "rank": "691-700",
+    "website": "https://www.depaul.edu/",
+    "location": "Chicago, Illinois, USA",
+    "annual_tuition_cs_dept": "$43,000 - $46,000 USD (approx. per year)",
+    "scholarship_info": "DePaul offers academic scholarships for international students based on achievement."
+  },
+  {
+    "id": "36",
+    "name": "George Washington University",
+    "type": "private",
+    "rank": "340",
+    "website": "https://www.gwu.edu/",
+    "location": "Washington D.C., USA",
+    "annual_tuition_cs_dept": "$62,000 - $65,000 USD (approx. per year)",
+    "scholarship_info": "International students are eligible for merit-based scholarships. No separate application required."
+  },
+  {
+    "id": "37",
+    "name": "University of San Diego",
+    "type": "private",
+    "rank": "721-730",
+    "website": "https://www.sandiego.edu/",
+    "location": "San Diego, California, USA",
+    "annual_tuition_cs_dept": "$55,000 - $58,000 USD (approx. per year)",
+    "scholarship_info": "Offers merit-based scholarships for which international students are automatically considered."
+  },
+  {
+    "id": "38",
+    "name": "Saint Louis University",
+    "type": "private",
+    "rank": "601-610",
+    "website": "https://www.slu.edu/",
+    "location": "St. Louis, Missouri, USA",
+    "annual_tuition_cs_dept": "$50,000 - $53,000 USD (approx. per year)",
+    "scholarship_info": "International students are automatically considered for merit-based scholarships upon admission."
+  },
+  {
+    "id": "39",
+    "name": "Catholic University of America",
+    "type": "private",
+    "rank": "641-650",
+    "website": "https://www.catholic.edu/",
+    "location": "Washington D.C., USA",
+    "annual_tuition_cs_dept": "$53,000 - $56,000 USD (approx. per year)",
+    "scholarship_info": "Parish, Archdiocesan and merit scholarships are available for eligible students, including internationals."
+  },
+  {
+    "id": "40",
+    "name": "Florida Institute of Technology",
+    "type": "private",
+    "rank": "691-700",
+    "website": "https://www.fit.edu/",
+    "location": "Melbourne, Florida, USA",
+    "annual_tuition_cs_dept": "$43,000 - $46,000 USD (approx. per year)",
+    "scholarship_info": "Offers academic merit scholarships to international students, ranging from $10,000 to 50% of tuition."
+  },
+  {
+    "id": "41",
+    "name": "Hofstra University",
+    "type": "private",
+    "rank": "711-720",
+    "website": "https://www.hofstra.edu/",
+    "location": "Hempstead, New York, USA",
+    "annual_tuition_cs_dept": "$52,000 - $55,000 USD",
+    "scholarship_info": "International students are eligible for merit-based scholarships."
+  },
+  {
+    "id": "42",
+    "name": "University of the Pacific",
+    "type": "private",
+    "rank": "731-740",
+    "website": "https://www.pacific.edu/",
+    "location": "Stockton, California, USA",
+    "annual_tuition_cs_dept": "$53,000 - $56,000 USD",
+    "scholarship_info": "International admissions include automatic merit scholarships."
+  },
+  {
+    "id": "43",
+    "name": "Bentley University",
+    "type": "private",
+    "rank": "731-740",
+    "website": "https://www.bentley.edu/",
+    "location": "Waltham, Massachusetts, USA",
+    "annual_tuition_cs_dept": "$58,000 - $61,000 USD",
+    "scholarship_info": "Merit scholarships and BentleyFirst program for first-gen students."
+  },
+  {
+    "id": "44",
+    "name": "Adelphi University",
+    "type": "private",
+    "rank": "741-750",
+    "website": "https://www.adelphi.edu/",
+    "location": "Garden City, New York, USA",
+    "annual_tuition_cs_dept": "$45,000 - $48,000 USD",
+    "scholarship_info": "Automatic consideration for merit scholarships."
+  },
+  {
+    "id": "45",
+    "name": "Suffolk University",
+    "type": "private",
+    "rank": "751-800",
+    "website": "https://www.suffolk.edu/",
+    "location": "Boston, Massachusetts, USA",
+    "annual_tuition_cs_dept": "$45,000 - $48,000 USD",
+    "scholarship_info": "Domestic and international students are eligible for merit aid."
+  },
+  {
+    "id": "46",
+    "name": "Tufts University",
+    "type": "private",
+    "rank": "344",
+    "website": "https://www.tufts.edu/",
+    "location": "Medford, Massachusetts, USA",
+    "annual_tuition_cs_dept": "~$61,000 USD (approx. per year)",
+    "scholarship_info": "Need-based and merit scholarships available. https://admissions.tufts.edu/financial-aid/"
+  },
+  {
+    "id": "47",
+    "name": "Georgetown University",
+    "type": "private",
+    "rank": "301",
+    "website": "https://www.georgetown.edu/",
+    "location": "Washington, D.C., USA",
+    "annual_tuition_cs_dept": "~$59,000 USD (approx. per year)",
+    "scholarship_info": "Need and merit aid available for international students. https://www.georgetown.edu/admissions/financial-aid/"
+  },
+  {
+    "id": "48",
+    "name": "University of Notre Dame",
+    "type": "private",
+    "rank": "316",
+    "website": "https://www.nd.edu/",
+    "location": "Notre Dame, Indiana, USA",
+    "annual_tuition_cs_dept": "~$60,000 USD (approx. per year)",
+    "scholarship_info": "Offers merit scholarships and need-based aid for international students. https://financialaid.nd.edu/"
+  },
+
+  {
+    "id": "50",
+    "name": "Chapman University",
+    "type": "private",
+    "rank": "701-750",
+    "website": "https://www.chapman.edu/",
+    "location": "Orange, California, USA",
+    "annual_tuition_cs_dept": "~$60,000 USD",
+    "scholarship_info": "Merit scholarships for international students."
+  },
+  {
+    "id": "51",
+    "name": "Duquesne University",
+    "type": "private",
+    "rank": "701-750",
+    "website": "https://www.duq.edu/",
+    "location": "Pittsburgh, Pennsylvania, USA",
+    "annual_tuition_cs_dept": "~$45,000 USD",
+    "scholarship_info": "Merit and need-based aid for international students."
+  },
+  {
+    "id": "52",
+    "name": "Illinois Institute of Technology",
+    "type": "private",
+    "rank": "701-750",
+    "website": "https://www.iit.edu/",
+    "location": "Chicago, Illinois, USA",
+    "annual_tuition_cs_dept": "~$50,000 USD",
+    "scholarship_info": "Merit scholarships available."
+  },
+  {
+    "id": "53",
+    "name": "Worcester Polytechnic Institute",
+    "type": "private",
+    "rank": "751-800",
+    "website": "https://www.wpi.edu/",
+    "location": "Worcester, Massachusetts, USA",
+    "annual_tuition_cs_dept": "~$56,000 USD",
+    "scholarship_info": "Merit scholarships for international students."
+  },
+  {
+    "id": "54",
+    "name": "Marquette University",
+    "type": "private",
+    "rank": "751-800",
+    "website": "https://www.marquette.edu/",
+    "location": "Milwaukee, Wisconsin, USA",
+    "annual_tuition_cs_dept": "~$48,000 USD",
+    "scholarship_info": "Academic scholarships for international students."
+  },
+  {
+    "id": "55",
+    "name": "Loyola University Chicago",
+    "type": "private",
+    "rank": "751-800",
+    "website": "https://www.luc.edu/",
+    "location": "Chicago, Illinois, USA",
+    "annual_tuition_cs_dept": "~$50,000 USD",
+    "scholarship_info": "Merit-based scholarships."
+  },
+  {
+    "id": "56",
+    "name": "Seton Hall University",
+    "type": "private",
+    "rank": "801-850",
+    "website": "https://www.shu.edu/",
+    "location": "South Orange, New Jersey, USA",
+    "annual_tuition_cs_dept": "~$50,000 USD",
+    "scholarship_info": "Merit scholarships available."
+  },
+  {
+    "id": "57",
+    "name": "Creighton University",
+    "type": "private",
+    "rank": "801-850",
+    "website": "https://www.creighton.edu/",
+    "location": "Omaha, Nebraska, USA",
+    "annual_tuition_cs_dept": "~$45,000 USD",
+    "scholarship_info": "Merit scholarships for international students."
+  },
+  {
+    "id": "59",
+    "name": "Fairfield University",
+    "type": "private",
+    "rank": "701-750",
+    "website": "https://www.fairfield.edu/",
+    "location": "Fairfield, Connecticut, USA",
+    "annual_tuition_cs_dept": "~$53,000 USD",
+    "scholarship_info": "Merit scholarships available for international students. https://www.fairfield.edu/undergraduate-admission/tuition-aid/"
+  },
+  {
+    "id": "60",
+    "name": "Seattle University",
+    "type": "private",
+    "rank": "701-750",
+    "website": "https://www.seattleu.edu/",
+    "location": "Seattle, Washington, USA",
+    "annual_tuition_cs_dept": "~$53,000 USD",
+    "scholarship_info": "Merit-based scholarships for international students. https://www.seattleu.edu/financial-aid/"
+  },
+  {
+    "id": "61",
+    "name": "Loyola Marymount University",
+    "type": "private",
+    "rank": "751-800",
+    "website": "https://www.lmu.edu/",
+    "location": "Los Angeles, California, USA",
+    "annual_tuition_cs_dept": "~$55,000 USD",
+    "scholarship_info": "Merit scholarships for international students. https://financialaid.lmu.edu/prospectivestudents/scholarships/"
+  },
+  {
+    "id": "62",
+    "name": "Elon University",
+    "type": "private",
+    "rank": "751-800",
+    "website": "https://www.elon.edu/",
+    "location": "Elon, North Carolina, USA",
+    "annual_tuition_cs_dept": "~$51,000 USD",
+    "scholarship_info": "Merit scholarships available to international students. https://www.elon.edu/u/admissions/tuition-and-financial-aid/"
+  },
+  {
+    "id": "63",
+    "name": "Regis University",
+    "type": "private",
+    "rank": "801-850",
+    "website": "https://www.regis.edu/",
+    "location": "Denver, Colorado, USA",
+    "annual_tuition_cs_dept": "~$45,000 USD",
+    "scholarship_info": "Merit-based aid for international students. https://www.regis.edu/financial-aid"
+  },
+  {
+    "id": "64",
+    "name": "Saint Joseph's University",
+    "type": "private",
+    "rank": "801-850",
+    "website": "https://www.sju.edu/",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "annual_tuition_cs_dept": "~$50,000 USD",
+    "scholarship_info": "Merit and need-based scholarships for international students. https://www.sju.edu/admission/tuition-financial-aid"
+  },
+  {
+    "id": "65",
+    "name": "Duquesne University",
+    "type": "private",
+    "rank": "801-850",
+    "website": "https://www.duq.edu/",
+    "location": "Pittsburgh, Pennsylvania, USA",
+    "annual_tuition_cs_dept": "~$45,000 USD",
+    "scholarship_info": "Merit and need-based aid for international students. https://www.duq.edu/financial-aid"
+  },
+  {
+    "id": "66",
+    "name": "Mercer University",
+    "type": "private",
+    "rank": "851-900",
+    "website": "https://www.mercer.edu/",
+    "location": "Macon, Georgia, USA",
+    "annual_tuition_cs_dept": "~$45,000 USD",
+    "scholarship_info": "Scholarships available for international students. https://admission.mercer.edu/financial-aid/"
+  },
+  {
+    "id": "67",
+    "name": "Marist College",
+    "type": "private",
+    "rank": "851-900",
+    "website": "https://www.marist.edu/",
+    "location": "Poughkeepsie, New York, USA",
+    "annual_tuition_cs_dept": "~$47,000 USD",
+    "scholarship_info": "Merit scholarships available for international students. https://www.marist.edu/admission/tuition-financial-aid"
+  },
+  {
+    "id": "68",
+    "name": "Saint Louis University",
+    "type": "private",
+    "rank": "851-900",
+    "website": "https://www.slu.edu/",
+    "location": "St. Louis, Missouri, USA",
+    "annual_tuition_cs_dept": "~$50,000 USD",
+    "scholarship_info": "Merit scholarships automatically considered for international students. https://www.slu.edu/international/scholarships.php"
+  },
+  {
+    "id": "69",
+    "name": "Hofstra University",
+    "type": "private",
+    "rank": "901-950",
+    "website": "https://www.hofstra.edu/",
+    "location": "Hempstead, New York, USA",
+    "annual_tuition_cs_dept": "~$52,000 USD",
+    "scholarship_info": "Merit-based scholarships for international students. https://www.hofstra.edu/admission/international/scholarships.html"
+  },
+  {
+    "id": "70",
+    "name": "Suffolk University",
+    "type": "private",
+    "rank": "901-950",
+    "website": "https://www.suffolk.edu/",
+    "location": "Boston, Massachusetts, USA",
+    "annual_tuition_cs_dept": "~$45,000 USD",
+    "scholarship_info": "Merit scholarships such as Suffolk University Grant for international students. https://www.suffolk.edu/admission/international/undergraduate/tuition-scholarships"
+  },
+  {
+    "id": "71",
+    "name": "Bentley University",
+    "type": "private",
+    "rank": "951-1000",
+    "website": "https://www.bentley.edu/",
+    "location": "Waltham, Massachusetts, USA",
+    "annual_tuition_cs_dept": "~$58,000 USD",
+    "scholarship_info": "Limited merit scholarships for international students. https://www.bentley.edu/undergraduate/applying/international-applicants"
+  },
+  {
+    "id": "72",
+    "name": "Adelphi University",
+    "type": "private",
+    "rank": "951-1000",
+    "website": "https://www.adelphi.edu/",
+    "location": "Garden City, New York, USA",
+    "annual_tuition_cs_dept": "~$45,000 USD",
+    "scholarship_info": "Merit scholarships for international students. https://www.adelphi.edu/financial-aid/scholarships-and-grants/international/"
+  },
+  {
+    "id": "73",
+    "name": "Ithaca College",
+    "type": "private",
+    "rank": "951-1000",
+    "website": "https://www.ithaca.edu/",
+    "location": "Ithaca, New York, USA",
+    "annual_tuition_cs_dept": "~$49,000 USD",
+    "scholarship_info": "Merit scholarships for international students. https://www.ithaca.edu/admissions/financial-aid/international-students"
+  },
+  {
+    "id": "74",
+    "name": "Hawaii Pacific University",
+    "type": "private",
+    "rank": "951-1000",
+    "website": "https://www.hpu.edu/",
+    "location": "Honolulu, Hawaii, USA",
+    "annual_tuition_cs_dept": "~$35,000 USD",
+    "scholarship_info": "Scholarships for international students available. https://www.hpu.edu/admissions/financial-aid/international-students.html"
+  },
+  {
+    "id": "75",
+    "name": "St. John's University (New York)",
+    "type": "private",
+    "rank": "951-1000",
+    "website": "https://www.stjohns.edu/",
+    "location": "Queens, New York, USA",
+    "annual_tuition_cs_dept": "~$48,000 USD",
+    "scholarship_info": "Academic scholarships available for international students. https://www.stjohns.edu/admission/tuition-and-financial-aid/scholarships"
+  },
+  {
+    "id": "76",
+    "name": "DePaul University",
+    "type": "private",
+    "rank": "951-1000",
+    "website": "https://www.depaul.edu/",
+    "location": "Chicago, Illinois, USA",
+    "annual_tuition_cs_dept": "~$44,000 USD",
+    "scholarship_info": "Academic scholarships for international students. https://www.depaul.edu/admission-and-aid/types-of-aid/scholarships"
+  },
+  {
+    "id": "77",
+    "name": "Saint John's University (Minnesota)",
+    "type": "private",
+    "rank": "951-1000",
+    "website": "https://www.csbsju.edu/",
+    "location": "Collegeville, Minnesota, USA",
+    "annual_tuition_cs_dept": "~$45,000 USD",
+    "scholarship_info": "Merit scholarships available. https://www.csbsju.edu/admission/financial-aid/international-students"
+  },
+  {
+    "id": "78",
+    "name": "Bradley University",
+    "type": "private",
+    "rank": "951-1000",
+    "website": "https://www.bradley.edu/",
+    "location": "Peoria, Illinois, USA",
+    "annual_tuition_cs_dept": "~$45,000 USD",
+    "scholarship_info": "Merit scholarships for international students. https://www.bradley.edu/admissions/tuition-financial-aid/"
+  },
+  {
+    "id": "79",
+    "name": "Mercer University",
+    "type": "private",
+    "rank": "951-1000",
+    "website": "https://www.mercer.edu/",
+    "location": "Macon, Georgia, USA",
+    "annual_tuition_cs_dept": "~$45,000 USD",
+    "scholarship_info": "Scholarships available for international students. https://admission.mercer.edu/financial-aid/"
+  },
+  {
+    "id": "80",
+    "name": "Marist College",
+    "type": "private",
+    "rank": "951-1000",
+    "website": "https://www.marist.edu/",
+    "location": "Poughkeepsie, New York, USA",
+    "annual_tuition_cs_dept": "~$47,000 USD",
+    "scholarship_info": "Merit scholarships available for international students. https://www.marist.edu/admission/tuition-financial-aid"
+  },
+  {
+    "id": "81",
+    "name": "Saint Joseph's University",
+    "type": "private",
+    "rank": "951-1000",
+    "website": "https://www.sju.edu/",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "annual_tuition_cs_dept": "~$50,000 USD",
+    "scholarship_info": "Merit and need-based scholarships for international students. https://www.sju.edu/admission/tuition-financial-aid"
+  },
+  {
+    "id": "82",
+    "name": "Regis University",
+    "type": "private",
+    "rank": "951-1000",
+    "website": "https://www.regis.edu/",
+    "location": "Denver, Colorado, USA",
+    "annual_tuition_cs_dept": "~$45,000 USD",
+    "scholarship_info": "Merit-based aid for international students. https://www.regis.edu/financial-aid"
+  },
+  {
+    "id": "83",
+    "name": "Duquesne University",
+    "type": "private",
+    "rank": "951-1000",
+    "website": "https://www.duq.edu/",
+    "location": "Pittsburgh, Pennsylvania, USA",
+    "annual_tuition_cs_dept": "~$45,000 USD",
+    "scholarship_info": "Merit and need-based aid for international students. https://www.duq.edu/financial-aid"
+  },
+  {
+    "id": "84",
+    "name": "Fairleigh Dickinson University",
+    "type": "private",
+    "rank": "951-1000",
+    "website": "https://www.fdu.edu/",
+    "location": "Madison, New Jersey, USA",
+    "annual_tuition_cs_dept": "~$45,000 USD",
+    "scholarship_info": "Merit scholarships for international students. https://view2.fdu.edu/admissions/financial-aid/"
+  },
+  {
+    "id": "85",
+    "name": "California Lutheran University",
+    "type": "private",
+    "rank": "951-1000",
+    "website": "https://www.callutheran.edu/",
+    "location": "Thousand Oaks, California, USA",
+    "annual_tuition_cs_dept": "~$45,000 USD",
+    "scholarship_info": "Merit scholarships for international students. https://www.callutheran.edu/admission/tuition-financial-aid/"
+  },
+  {
+    "id": "86",
+    "name": "Saint Peter's University",
+    "type": "private",
+    "rank": "951-1000",
+    "website": "https://www.saintpeters.edu/",
+    "location": "Jersey City, New Jersey, USA",
+    "annual_tuition_cs_dept": "~$44,000 USD",
+    "scholarship_info": "Scholarships for international students. https://www.saintpeters.edu/admission/tuition-financial-aid/"
+  },
+  {
+    "id": "87",
+    "name": "University of the Pacific",
+    "type": "private",
+    "rank": "951-1000",
+    "website": "https://www.pacific.edu/",
+    "location": "Stockton, California, USA",
+    "annual_tuition_cs_dept": "~$53,000 USD",
+    "scholarship_info": "Generous merit scholarships for international students. https://www.pacific.edu/admission/international/tuition-and-financial-aid"
+  },
+  {
+    "id": "88",
+    "name": "Molloy College",
+    "type": "private",
+    "rank": "951-1000",
+    "website": "https://www.molloy.edu/",
+    "location": "Rockville Centre, New York, USA",
+    "annual_tuition_cs_dept": "~$45,000 USD",
+    "scholarship_info": "Merit scholarships available for international students. https://www.molloy.edu/admission/financial-aid"
+  }
+]
