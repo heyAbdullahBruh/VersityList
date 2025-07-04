@@ -35,6 +35,15 @@
 }
 
 .active {
-  background-color: aliceblue;
-  color: #1a1a1a;
+  background-color:#030202 ;
+  border: 2px solid #05659c;
+  color: aliceblue;
+}
+
+@media (prefers-color-scheme: light) {
+ .active {
+  background-color:aliceblue;
+  border: 2px solid #05659c;
+  color: #030202 ;
+}
 }
