@@ -29,11 +29,11 @@ const PrivateUni = () => {
       {loading ? (
         <Loading />
       ) : (
-        <div>
+        <div className={styles.uniCont}>
           {versities?.map((uni) => {
             const { id, name, type, rank, location } = uni;
             return (
-              <article key={id}>
+              <article key={id} id={styles.uniCard}>
                 <h2>{name}</h2>
                 <p>{type}</p>
                 <h3>

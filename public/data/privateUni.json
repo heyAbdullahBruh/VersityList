@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": "uniVs1",
     "name": "Yeshiva University",
     "type": "private",
     "rank": "369",
@@ -10,7 +10,7 @@
     "scholarship_info": "Merit-based scholarships available for international students. Check the official financial aid website for details and deadlines: https://www.yu.edu/osf"
   },
   {
-    "id": "2",
+    "id": "uniVs2",
     "name": "Wake Forest University",
     "type": "private",
     "rank": "451",
@@ -20,7 +20,7 @@
     "scholarship_info": "Offers both need-based and merit-based aid to a limited number of international students. More info: https://admissions.wfu.edu/international/afford/"
   },
   {
-    "id": "3",
+    "id": "uniVs3",
     "name": "University of Rochester",
     "type": "private",
     "rank": "469",
@@ -30,7 +30,7 @@
     "scholarship_info": "International students are eligible for merit-based scholarships. Details at: https://enrollment.rochester.edu/international/applying/scholarships-and-aid/"
   },
   {
-    "id": "4",
+    "id": "uniVs4",
     "name": "Pepperdine University",
     "type": "private",
     "rank": "501-510",
@@ -40,7 +40,7 @@
     "scholarship_info": "Limited merit scholarships for international students at the time of admission. Visit: https://www.pepperdine.edu/financial-assistance/undergraduate/types/scholarships/"
   },
   {
-    "id": "5",
+    "id": "uniVs5",
     "name": "Rensselaer Polytechnic Institute (RPI)",
     "type": "private",
     "rank": "501-510",
@@ -50,7 +50,7 @@
     "scholarship_info": "Merit-based scholarships are available for all applicants, including international students. Details: https://admissions.rpi.edu/aid"
   },
   {
-    "id": "6",
+    "id": "uniVs6",
     "name": "Tulane University",
     "type": "private",
     "rank": "521-530",
@@ -60,7 +60,7 @@
     "scholarship_info": "Offers partial merit-based scholarships for international students. Check their financial aid page: https://financialaid.tulane.edu/types-of-aid/international"
   },
   {
-    "id": "7",
+    "id": "uniVs7",
     "name": "Brandeis University",
     "type": "private",
     "rank": "541-550",
@@ -70,7 +70,7 @@
     "scholarship_info": "Offers both need-based and merit-based scholarships to international students. Details: https://www.brandeis.edu/admissions/financial-aid/international.html"
   },
   {
-    "id": "8",
+    "id": "uniVs8",
     "name": "Syracuse University",
     "type": "private",
     "rank": "601-610",
@@ -80,7 +80,7 @@
     "scholarship_info": "Merit-based scholarships are available for qualified international students. More info: https://www.syracuse.edu/admissions/cost-and-aid/scholarships/"
   },
   {
-    "id": "9",
+    "id": "uniVs9",
     "name": "Lehigh University",
     "type": "private",
     "rank": "611-620",
@@ -90,7 +90,7 @@
     "scholarship_info": "Limited need-based financial aid and merit scholarships available for international students. Visit: https://finaid.lehigh.edu/undergraduate/international-students"
   },
   {
-    "id": "10",
+    "id": "uniVs10",
     "name": "Southern Methodist University (SMU)",
     "type": "private",
     "rank": "641-650",
@@ -100,7 +100,7 @@
     "scholarship_info": "SMU offers merit-based scholarships for international students. Details can be found at: https://www.smu.edu/admission/financialaid/scholarships"
   },
   {
-    "id": "11",
+    "id": "uniVs11",
     "name": "Stevens Institute of Technology",
     "type": "private",
     "rank": "641-650",
@@ -110,7 +110,7 @@
     "scholarship_info": "All undergraduate applicants are automatically considered for merit scholarships. Info: https://www.stevens.edu/..."
   },
   {
-    "id": "12",
+    "id": "uniVs12",
     "name": "Baylor University",
     "type": "private",
     "rank": "651-660",
@@ -120,7 +120,7 @@
     "scholarship_info": "International students are eligible for academic (merit-based) scholarships. Check: https://admissions.baylor.edu/..."
   },
   {
-    "id": "13",
+    "id": "uniVs13",
     "name": "Worcester Polytechnic Institute (WPI)",
     "type": "private",
     "rank": "661-670",
@@ -130,7 +130,7 @@
     "scholarship_info": "WPI offers merit-based scholarships to international students upon admission. Details: https://www.wpi.edu/..."
   },
   {
-    "id": "14",
+    "id": "uniVs14",
     "name": "Northeastern University",
     "type": "private",
     "rank": "375",
@@ -140,7 +140,7 @@
     "scholarship_info": "Offers limited need-based and merit-based aid to international students. Check: https://studentfinance.northeastern.edu/..."
   },
   {
-    "id": "15",
+    "id": "uniVs15",
     "name": "Illinois Institute of Technology",
     "type": "private",
     "rank": "469",
@@ -150,7 +150,7 @@
     "scholarship_info": "Generous merit scholarships for international students, like the 'Hebz-IIT Scholarship'. Visit: https://www.iit.edu/admissions-aid/scholarships"
   },
   {
-    "id": "16",
+    "id": "uniVs16",
     "name": "Clark University",
     "type": "private",
     "rank": "551-560",
@@ -160,7 +160,7 @@
     "scholarship_info": "All applicants are considered for merit scholarships. Clark also offers a 'Global Scholars Program'."
   },
   {
-    "id": "17",
+    "id": "uniVs17",
     "name": "American University",
     "type": "private",
     "rank": "561-570",
@@ -170,7 +170,7 @@
     "scholarship_info": "Offers the 'AU Emerging Global Leader Scholarship' for one international student. Limited other merit awards."
   },
   {
-    "id": "18",
+    "id": "uniVs18",
     "name": "Fordham University",
     "type": "private",
     "rank": "601-610",
@@ -180,7 +180,7 @@
     "scholarship_info": "International students are eligible for a limited number of merit and talent-based scholarships."
   },
   {
-    "id": "19",
+    "id": "uniVs19",
     "name": "Drexel University",
     "type": "private",
     "rank": "691-700",
@@ -190,7 +190,7 @@
     "scholarship_info": "Drexel offers merit scholarships to qualified international applicants."
   },
   {
-    "id": "20",
+    "id": "uniVs20",
     "name": "University of San Francisco",
     "type": "private",
     "rank": "691-700",
@@ -200,7 +200,7 @@
     "scholarship_info": "USF offers merit scholarships to international students at the time of admission."
   },
   {
-    "id": "21",
+    "id": "uniVs21",
     "name": "Villanova University",
     "type": "private",
     "rank": "611-620",
@@ -210,7 +210,7 @@
     "scholarship_info": "Merit‑based Presidential and St. Martin de Porres scholarships; need‑based grants and Tuition Exchange opportunities. :contentReference[oaicite:1]{index=1}"
   },
   {
-    "id": "22",
+    "id": "uniVs22",
     "name": "Texas Christian University (TCU)",
     "type": "private",
     "rank": "641-650",
@@ -220,7 +220,7 @@
     "scholarship_info": "Merit‑based scholarships for international students, ranging from $15,000 to full tuition."
   },
   {
-    "id": "24",
+    "id": "uniVs24",
     "name": "Santa Clara University",
     "type": "private",
     "rank": "551-560",
@@ -230,7 +230,7 @@
     "scholarship_info": "Merit‑based scholarships considered automatically; check university financial aid site."
   },
   {
-    "id": "25",
+    "id": "uniVs25",
     "name": "The New School",
     "type": "private",
     "rank": "641-650",
@@ -240,7 +240,7 @@
     "scholarship_info": "Merit‑based scholarships available to international students at admission."
   },
   {
-    "id": "26",
+    "id": "uniVs26",
     "name": "University of Denver",
     "type": "private",
     "rank": "651-660",
@@ -250,7 +250,7 @@
     "scholarship_info": "Merit scholarships for international students, automatically considered—see DU financial aid site."
   },
   {
-    "id": "27",
+    "id": "uniVs27",
     "name": "Rochester Institute of Technology (RIT)",
     "type": "private",
     "rank": "661-670",
@@ -260,7 +260,7 @@
     "scholarship_info": "Generous merit‑based scholarships for international students, automatically considered."
   },
   {
-    "id": "28",
+    "id": "uniVs28",
     "name": "Brigham Young University (BYU)",
     "type": "private",
     "rank": "486",
@@ -270,7 +270,7 @@
     "scholarship_info": "Limited merit & need‑based scholarships for international students; LDS sponsorship reduces cost."
   },
   {
-    "id": "29",
+    "id": "uniVs29",
     "name": "University of Tulsa",
     "type": "private",
     "rank": "691-700",
@@ -280,7 +280,7 @@
     "scholarship_info": "Competitive academic scholarships for international students; see Tulsa admissions site."
   },
   {
-    "id": "30",
+    "id": "uniVs30",
     "name": "Loyola Marymount University (LMU)",
     "type": "private",
     "rank": "641-650",
@@ -290,7 +290,7 @@
     "scholarship_info": "Several merit scholarships and grants; international students automatically considered."
   },
   {
-    "id": "31",
+    "id": "uniVs31",
     "name": "Marquette University",
     "type": "private",
     "rank": "661-670",
@@ -300,7 +300,7 @@
     "scholarship_info": "The Père Marquette Scholarship program offers awards to international students based on academic merit."
   },
   {
-    "id": "32",
+    "id": "uniVs32",
     "name": "Creighton University",
     "type": "private",
     "rank": "661-670",
@@ -310,7 +310,7 @@
     "scholarship_info": "International students are eligible for merit-based scholarships upon review of their application."
   },
   {
-    "id": "33",
+    "id": "uniVs33",
     "name": "Seton Hall University",
     "type": "private",
     "rank": "691-700",
@@ -320,7 +320,7 @@
     "scholarship_info": "Merit-based scholarships are available for international students."
   },
   {
-    "id": "34",
+    "id": "uniVs34",
     "name": "St. John's University",
     "type": "private",
     "rank": "651-660",
@@ -330,7 +330,7 @@
     "scholarship_info": "Offers a wide range of academic scholarships for which international first-year students are automatically considered."
   },
   {
-    "id": "35",
+    "id": "uniVs35",
     "name": "DePaul University",
     "type": "private",
     "rank": "691-700",
@@ -340,7 +340,7 @@
     "scholarship_info": "DePaul offers academic scholarships for international students based on achievement."
   },
   {
-    "id": "36",
+    "id": "uniVs36",
     "name": "George Washington University",
     "type": "private",
     "rank": "340",
@@ -350,7 +350,7 @@
     "scholarship_info": "International students are eligible for merit-based scholarships. No separate application required."
   },
   {
-    "id": "37",
+    "id": "uniVs37",
     "name": "University of San Diego",
     "type": "private",
     "rank": "721-730",
@@ -360,7 +360,7 @@
     "scholarship_info": "Offers merit-based scholarships for which international students are automatically considered."
   },
   {
-    "id": "38",
+    "id": "uniVs38",
     "name": "Saint Louis University",
     "type": "private",
     "rank": "601-610",
@@ -370,7 +370,7 @@
     "scholarship_info": "International students are automatically considered for merit-based scholarships upon admission."
   },
   {
-    "id": "39",
+    "id": "uniVs39",
     "name": "Catholic University of America",
     "type": "private",
     "rank": "641-650",
@@ -380,7 +380,7 @@
     "scholarship_info": "Parish, Archdiocesan and merit scholarships are available for eligible students, including internationals."
   },
   {
-    "id": "40",
+    "id": "uniVs40",
     "name": "Florida Institute of Technology",
     "type": "private",
     "rank": "691-700",
@@ -390,7 +390,7 @@
     "scholarship_info": "Offers academic merit scholarships to international students, ranging from $10,000 to 50% of tuition."
   },
   {
-    "id": "41",
+    "id": "uniVs41",
     "name": "Hofstra University",
     "type": "private",
     "rank": "711-720",
@@ -400,7 +400,7 @@
     "scholarship_info": "International students are eligible for merit-based scholarships."
   },
   {
-    "id": "42",
+    "id": "uniVs42",
     "name": "University of the Pacific",
     "type": "private",
     "rank": "731-740",
@@ -410,7 +410,7 @@
     "scholarship_info": "International admissions include automatic merit scholarships."
   },
   {
-    "id": "43",
+    "id": "uniVs43",
     "name": "Bentley University",
     "type": "private",
     "rank": "731-740",
@@ -420,7 +420,7 @@
     "scholarship_info": "Merit scholarships and BentleyFirst program for first-gen students."
   },
   {
-    "id": "44",
+    "id": "uniVs44",
     "name": "Adelphi University",
     "type": "private",
     "rank": "741-750",
@@ -430,7 +430,7 @@
     "scholarship_info": "Automatic consideration for merit scholarships."
   },
   {
-    "id": "45",
+    "id": "uniVs45",
     "name": "Suffolk University",
     "type": "private",
     "rank": "751-800",
@@ -440,7 +440,7 @@
     "scholarship_info": "Domestic and international students are eligible for merit aid."
   },
   {
-    "id": "46",
+    "id": "uniVs46",
     "name": "Tufts University",
     "type": "private",
     "rank": "344",
@@ -450,7 +450,7 @@
     "scholarship_info": "Need-based and merit scholarships available. https://admissions.tufts.edu/financial-aid/"
   },
   {
-    "id": "47",
+    "id": "uniVs47",
     "name": "Georgetown University",
     "type": "private",
     "rank": "301",
@@ -460,7 +460,7 @@
     "scholarship_info": "Need and merit aid available for international students. https://www.georgetown.edu/admissions/financial-aid/"
   },
   {
-    "id": "48",
+    "id": "uniVs48",
     "name": "University of Notre Dame",
     "type": "private",
     "rank": "316",
@@ -471,7 +471,7 @@
   },
 
   {
-    "id": "50",
+    "id": "uniVs50",
     "name": "Chapman University",
     "type": "private",
     "rank": "701-750",
@@ -481,7 +481,7 @@
     "scholarship_info": "Merit scholarships for international students."
   },
   {
-    "id": "51",
+    "id": "uniVs51",
     "name": "Duquesne University",
     "type": "private",
     "rank": "701-750",
@@ -491,7 +491,7 @@
     "scholarship_info": "Merit and need-based aid for international students."
   },
   {
-    "id": "52",
+    "id": "uniVs52",
     "name": "Illinois Institute of Technology",
     "type": "private",
     "rank": "701-750",
@@ -501,7 +501,7 @@
     "scholarship_info": "Merit scholarships available."
   },
   {
-    "id": "53",
+    "id": "uniVs53",
     "name": "Worcester Polytechnic Institute",
     "type": "private",
     "rank": "751-800",
@@ -511,7 +511,7 @@
     "scholarship_info": "Merit scholarships for international students."
   },
   {
-    "id": "54",
+    "id": "uniVs54",
     "name": "Marquette University",
     "type": "private",
     "rank": "751-800",
@@ -521,7 +521,7 @@
     "scholarship_info": "Academic scholarships for international students."
   },
   {
-    "id": "55",
+    "id": "uniVs55",
     "name": "Loyola University Chicago",
     "type": "private",
     "rank": "751-800",
@@ -531,7 +531,7 @@
     "scholarship_info": "Merit-based scholarships."
   },
   {
-    "id": "56",
+    "id": "uniVs56",
     "name": "Seton Hall University",
     "type": "private",
     "rank": "801-850",
@@ -541,7 +541,7 @@
     "scholarship_info": "Merit scholarships available."
   },
   {
-    "id": "57",
+    "id": "uniVs57",
     "name": "Creighton University",
     "type": "private",
     "rank": "801-850",
@@ -551,7 +551,7 @@
     "scholarship_info": "Merit scholarships for international students."
   },
   {
-    "id": "59",
+    "id": "uniVs59",
     "name": "Fairfield University",
     "type": "private",
     "rank": "701-750",
@@ -561,7 +561,7 @@
     "scholarship_info": "Merit scholarships available for international students. https://www.fairfield.edu/undergraduate-admission/tuition-aid/"
   },
   {
-    "id": "60",
+    "id": "uniVs60",
     "name": "Seattle University",
     "type": "private",
     "rank": "701-750",
@@ -571,7 +571,7 @@
     "scholarship_info": "Merit-based scholarships for international students. https://www.seattleu.edu/financial-aid/"
   },
   {
-    "id": "61",
+    "id": "uniVs61",
     "name": "Loyola Marymount University",
     "type": "private",
     "rank": "751-800",
@@ -581,7 +581,7 @@
     "scholarship_info": "Merit scholarships for international students. https://financialaid.lmu.edu/prospectivestudents/scholarships/"
   },
   {
-    "id": "62",
+    "id": "uniVs62",
     "name": "Elon University",
     "type": "private",
     "rank": "751-800",
@@ -591,7 +591,7 @@
     "scholarship_info": "Merit scholarships available to international students. https://www.elon.edu/u/admissions/tuition-and-financial-aid/"
   },
   {
-    "id": "63",
+    "id": "uniVs63",
     "name": "Regis University",
     "type": "private",
     "rank": "801-850",
@@ -601,7 +601,7 @@
     "scholarship_info": "Merit-based aid for international students. https://www.regis.edu/financial-aid"
   },
   {
-    "id": "64",
+    "id": "uniVs64",
     "name": "Saint Joseph's University",
     "type": "private",
     "rank": "801-850",
@@ -611,7 +611,7 @@
     "scholarship_info": "Merit and need-based scholarships for international students. https://www.sju.edu/admission/tuition-financial-aid"
   },
   {
-    "id": "65",
+    "id": "uniVs65",
     "name": "Duquesne University",
     "type": "private",
     "rank": "801-850",
@@ -621,7 +621,7 @@
     "scholarship_info": "Merit and need-based aid for international students. https://www.duq.edu/financial-aid"
   },
   {
-    "id": "66",
+    "id": "uniVs66",
     "name": "Mercer University",
     "type": "private",
     "rank": "851-900",
@@ -631,7 +631,7 @@
     "scholarship_info": "Scholarships available for international students. https://admission.mercer.edu/financial-aid/"
   },
   {
-    "id": "67",
+    "id": "uniVs67",
     "name": "Marist College",
     "type": "private",
     "rank": "851-900",
@@ -641,7 +641,7 @@
     "scholarship_info": "Merit scholarships available for international students. https://www.marist.edu/admission/tuition-financial-aid"
   },
   {
-    "id": "68",
+    "id": "uniVs68",
     "name": "Saint Louis University",
     "type": "private",
     "rank": "851-900",
@@ -651,7 +651,7 @@
     "scholarship_info": "Merit scholarships automatically considered for international students. https://www.slu.edu/international/scholarships.php"
   },
   {
-    "id": "69",
+    "id": "uniVs69",
     "name": "Hofstra University",
     "type": "private",
     "rank": "901-950",
@@ -661,7 +661,7 @@
     "scholarship_info": "Merit-based scholarships for international students. https://www.hofstra.edu/admission/international/scholarships.html"
   },
   {
-    "id": "70",
+    "id": "uniVs70",
     "name": "Suffolk University",
     "type": "private",
     "rank": "901-950",
@@ -671,7 +671,7 @@
     "scholarship_info": "Merit scholarships such as Suffolk University Grant for international students. https://www.suffolk.edu/admission/international/undergraduate/tuition-scholarships"
   },
   {
-    "id": "71",
+    "id": "uniVs71",
     "name": "Bentley University",
     "type": "private",
     "rank": "951-1000",
@@ -681,7 +681,7 @@
     "scholarship_info": "Limited merit scholarships for international students. https://www.bentley.edu/undergraduate/applying/international-applicants"
   },
   {
-    "id": "72",
+    "id": "uniVs72",
     "name": "Adelphi University",
     "type": "private",
     "rank": "951-1000",
@@ -691,7 +691,7 @@
     "scholarship_info": "Merit scholarships for international students. https://www.adelphi.edu/financial-aid/scholarships-and-grants/international/"
   },
   {
-    "id": "73",
+    "id": "uniVs73",
     "name": "Ithaca College",
     "type": "private",
     "rank": "951-1000",
@@ -701,7 +701,7 @@
     "scholarship_info": "Merit scholarships for international students. https://www.ithaca.edu/admissions/financial-aid/international-students"
   },
   {
-    "id": "74",
+    "id": "uniVs74",
     "name": "Hawaii Pacific University",
     "type": "private",
     "rank": "951-1000",
@@ -711,7 +711,7 @@
     "scholarship_info": "Scholarships for international students available. https://www.hpu.edu/admissions/financial-aid/international-students.html"
   },
   {
-    "id": "75",
+    "id": "uniVs75",
     "name": "St. John's University (New York)",
     "type": "private",
     "rank": "951-1000",
@@ -721,7 +721,7 @@
     "scholarship_info": "Academic scholarships available for international students. https://www.stjohns.edu/admission/tuition-and-financial-aid/scholarships"
   },
   {
-    "id": "76",
+    "id": "uniVs76",
     "name": "DePaul University",
     "type": "private",
     "rank": "951-1000",
@@ -731,7 +731,7 @@
     "scholarship_info": "Academic scholarships for international students. https://www.depaul.edu/admission-and-aid/types-of-aid/scholarships"
   },
   {
-    "id": "77",
+    "id": "uniVs77",
     "name": "Saint John's University (Minnesota)",
     "type": "private",
     "rank": "951-1000",
@@ -741,7 +741,7 @@
     "scholarship_info": "Merit scholarships available. https://www.csbsju.edu/admission/financial-aid/international-students"
   },
   {
-    "id": "78",
+    "id": "uniVs78",
     "name": "Bradley University",
     "type": "private",
     "rank": "951-1000",
@@ -751,7 +751,7 @@
     "scholarship_info": "Merit scholarships for international students. https://www.bradley.edu/admissions/tuition-financial-aid/"
   },
   {
-    "id": "79",
+    "id": "uniVs79",
     "name": "Mercer University",
     "type": "private",
     "rank": "951-1000",
@@ -761,7 +761,7 @@
     "scholarship_info": "Scholarships available for international students. https://admission.mercer.edu/financial-aid/"
   },
   {
-    "id": "80",
+    "id": "uniVs80",
     "name": "Marist College",
     "type": "private",
     "rank": "951-1000",
@@ -771,7 +771,7 @@
     "scholarship_info": "Merit scholarships available for international students. https://www.marist.edu/admission/tuition-financial-aid"
   },
   {
-    "id": "81",
+    "id": "uniVs81",
     "name": "Saint Joseph's University",
     "type": "private",
     "rank": "951-1000",
@@ -781,7 +781,7 @@
     "scholarship_info": "Merit and need-based scholarships for international students. https://www.sju.edu/admission/tuition-financial-aid"
   },
   {
-    "id": "82",
+    "id": "uniVs82",
     "name": "Regis University",
     "type": "private",
     "rank": "951-1000",
@@ -791,7 +791,7 @@
     "scholarship_info": "Merit-based aid for international students. https://www.regis.edu/financial-aid"
   },
   {
-    "id": "83",
+    "id": "uniVs83",
     "name": "Duquesne University",
     "type": "private",
     "rank": "951-1000",
@@ -801,7 +801,7 @@
     "scholarship_info": "Merit and need-based aid for international students. https://www.duq.edu/financial-aid"
   },
   {
-    "id": "84",
+    "id": "uniVs84",
     "name": "Fairleigh Dickinson University",
     "type": "private",
     "rank": "951-1000",
@@ -811,7 +811,7 @@
     "scholarship_info": "Merit scholarships for international students. https://view2.fdu.edu/admissions/financial-aid/"
   },
   {
-    "id": "85",
+    "id": "uniVs85",
     "name": "California Lutheran University",
     "type": "private",
     "rank": "951-1000",
@@ -821,7 +821,7 @@
     "scholarship_info": "Merit scholarships for international students. https://www.callutheran.edu/admission/tuition-financial-aid/"
   },
   {
-    "id": "86",
+    "id": "uniVs86",
     "name": "Saint Peter's University",
     "type": "private",
     "rank": "951-1000",
@@ -831,7 +831,7 @@
     "scholarship_info": "Scholarships for international students. https://www.saintpeters.edu/admission/tuition-financial-aid/"
   },
   {
-    "id": "87",
+    "id": "uniVs87",
     "name": "University of the Pacific",
     "type": "private",
     "rank": "951-1000",
@@ -841,7 +841,7 @@
     "scholarship_info": "Generous merit scholarships for international students. https://www.pacific.edu/admission/international/tuition-and-financial-aid"
   },
   {
-    "id": "88",
+    "id": "uniVs88",
     "name": "Molloy College",
     "type": "private",
     "rank": "951-1000",
