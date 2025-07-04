@@ -1,6 +1,6 @@
 [
   {
-    "id": "23",
+    "id": "uniVs23",
     "name": "Howard University",
     "type": "public",
     "rank": "601-610",
@@ -10,7 +10,7 @@
     "scholarship_info": "HUFS: freshman merit & need‑based scholarships. Karsh STEM Scholars program offers tuition+room/board/books for STEM majors. :contentReference[oaicite:3]{index=3}"
   },
   {
-    "id": "49",
+    "id": "uniVs49",
     "name": "Stony Brook University",
     "type": "public",
     "rank": "701-750",
@@ -20,7 +20,7 @@
     "scholarship_info": "Merit scholarships available; mostly a public university."
   },
   {
-    "id": "58",
+    "id": "uniVs58",
     "name": "DuPont Manual High School",
     "type": "public",
     "rank": "N/A",
