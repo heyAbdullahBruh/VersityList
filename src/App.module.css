@@ -1,5 +1,4 @@
-
-.app{
+.app {
   padding: 1rem;
   width: 100%;
   display: flex;
@@ -10,15 +9,32 @@
 
 }
 
-.controller{
-   display: flex;
+.app header {
+  margin: 1rem;
+  text-align: center;
+}
+
+.app header h1 {
+  margin: 0;
+  padding: 0;
+}
+
+.app header p {
+  margin: 0;
+  padding: 0;
+  color: #00ff40;
+
+}
+
+.controller {
+  display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
   gap: 1rem;
 }
 
-.active{
+.active {
   background-color: aliceblue;
   color: #1a1a1a;
 }

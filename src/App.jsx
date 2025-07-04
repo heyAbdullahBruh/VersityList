@@ -8,7 +8,10 @@ function App() {
   return (
     <>
       <main className={styles.app}>
-        <h1>US Universities</h1>
+        <header>
+          <h1>US Universities</h1>
+          <p>[QS (300-1000)]</p>
+        </header>
         <aside className={styles.controller}>
           <button
             className={isPublic && `${styles.active}`}
